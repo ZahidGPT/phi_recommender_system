@@ -1,6 +1,6 @@
 streamlit==1.42.0
 tensorflow==2.18.0
-keras==2.13.1
+keras>=3.5.0
 tensorflow-recommenders==0.7.3
 pandas==2.0.3
 numpy>=1.26.0,<2.1.0
