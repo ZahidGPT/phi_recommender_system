@@ -1,0 +1,902 @@
+[
+    {
+        "user_id": 0,
+        "age": 0.39,
+        "location": "NSW",
+        "maternity_coverage": 1,
+        "budget": 0.39,
+        "budget_amount": 451.0,
+        "insurer_rating_preference": 1
+    },
+    {
+        "user_id": 1,
+        "age": 0.75,
+        "location": "NSW",
+        "maternity_coverage": 0,
+        "budget": 0.94,
+        "budget_amount": 946.0,
+        "insurer_rating_preference": 1
+    },
+    {
+        "user_id": 2,
+        "age": 0.26,
+        "location": "NT",
+        "maternity_coverage": 0,
+        "budget": 0.47,
+        "budget_amount": 523.0,
+        "insurer_rating_preference": 1
+    },
+    {
+        "user_id": 3,
+        "age": 0.82,
+        "location": "SA",
+        "maternity_coverage": 1,
+        "budget": 0.89,
+        "budget_amount": 901.0,
+        "insurer_rating_preference": 0
+    },
+    {
+        "user_id": 4,
+        "age": 0.61,
+        "location": "NT",
+        "maternity_coverage": 1,
+        "budget": 0.21,
+        "budget_amount": 289.0,
+        "insurer_rating_preference": 0
+    },
+    {
+        "user_id": 5,
+        "age": 0.33,
+        "location": "TAS",
+        "maternity_coverage": 1,
+        "budget": 0.28,
+        "budget_amount": 352.0,
+        "insurer_rating_preference": 1
+    },
+    {
+        "user_id": 6,
+        "age": 0.07,
+        "location": "WA",
+        "maternity_coverage": 1,
+        "budget": 0.73,
+        "budget_amount": 757.0,
+        "insurer_rating_preference": 0
+    },
+    {
+        "user_id": 7,
+        "age": 0.29,
+        "location": "TAS",
+        "maternity_coverage": 0,
+        "budget": 0.91,
+        "budget_amount": 919.0,
+        "insurer_rating_preference": 0
+    },
+    {
+        "user_id": 8,
+        "age": 0.6,
+        "location": "QLD",
+        "maternity_coverage": 1,
+        "budget": 0.7,
+        "budget_amount": 730.0,
+        "insurer_rating_preference": 0
+    },
+    {
+        "user_id": 9,
+        "age": 0.97,
+        "location": "ACT",
+        "maternity_coverage": 1,
+        "budget": 0.05,
+        "budget_amount": 145.0,
+        "insurer_rating_preference": 0
+    },
+    {
+        "user_id": 10,
+        "age": 0.85,
+        "location": "QLD",
+        "maternity_coverage": 1,
+        "budget": 0.17,
+        "budget_amount": 253.0,
+        "insurer_rating_preference": 0
+    },
+    {
+        "user_id": 11,
+        "age": 0.5,
+        "location": "NT",
+        "maternity_coverage": 1,
+        "budget": 0.84,
+        "budget_amount": 856.0,
+        "insurer_rating_preference": 0
+    },
+    {
+        "user_id": 12,
+        "age": 0.05,
+        "location": "TAS",
+        "maternity_coverage": 1,
+        "budget": 0.04,
+        "budget_amount": 136.0,
+        "insurer_rating_preference": 1
+    },
+    {
+        "user_id": 13,
+        "age": 0.25,
+        "location": "QLD",
+        "maternity_coverage": 0,
+        "budget": 0.99,
+        "budget_amount": 991.0,
+        "insurer_rating_preference": 0
+    },
+    {
+        "user_id": 14,
+        "age": 0.81,
+        "location": "WA",
+        "maternity_coverage": 0,
+        "budget": 0.41,
+        "budget_amount": 469.0,
+        "insurer_rating_preference": 0
+    },
+    {
+        "user_id": 15,
+        "age": 0.58,
+        "location": "SA",
+        "maternity_coverage": 0,
+        "budget": 0.21,
+        "budget_amount": 289.0,
+        "insurer_rating_preference": 0
+    },
+    {
+        "user_id": 16,
+        "age": 0.83,
+        "location": "NT",
+        "maternity_coverage": 1,
+        "budget": 0.39,
+        "budget_amount": 451.0,
+        "insurer_rating_preference": 1
+    },
+    {
+        "user_id": 17,
+        "age": 0.77,
+        "location": "WA",
+        "maternity_coverage": 0,
+        "budget": 0.14,
+        "budget_amount": 226.0,
+        "insurer_rating_preference": 0
+    },
+    {
+        "user_id": 18,
+        "age": 0.04,
+        "location": "QLD",
+        "maternity_coverage": 0,
+        "budget": 0.19,
+        "budget_amount": 271.0,
+        "insurer_rating_preference": 0
+    },
+    {
+        "user_id": 19,
+        "age": 0.5,
+        "location": "TAS",
+        "maternity_coverage": 1,
+        "budget": 0.01,
+        "budget_amount": 109.0,
+        "insurer_rating_preference": 1
+    },
+    {
+        "user_id": 20,
+        "age": 0.37,
+        "location": "ACT",
+        "maternity_coverage": 1,
+        "budget": 0.61,
+        "budget_amount": 649.0,
+        "insurer_rating_preference": 1
+    },
+    {
+        "user_id": 21,
+        "age": 0.02,
+        "location": "VIC",
+        "maternity_coverage": 0,
+        "budget": 0.76,
+        "budget_amount": 784.0,
+        "insurer_rating_preference": 0
+    },
+    {
+        "user_id": 22,
+        "age": 0.77,
+        "location": "SA",
+        "maternity_coverage": 1,
+        "budget": 0.36,
+        "budget_amount": 424.0,
+        "insurer_rating_preference": 0
+    },
+    {
+        "user_id": 23,
+        "age": 0.2,
+        "location": "QLD",
+        "maternity_coverage": 0,
+        "budget": 0.52,
+        "budget_amount": 568.0,
+        "insurer_rating_preference": 0
+    },
+    {
+        "user_id": 24,
+        "age": 0.39,
+        "location": "NSW",
+        "maternity_coverage": 0,
+        "budget": 0.05,
+        "budget_amount": 145.0,
+        "insurer_rating_preference": 0
+    },
+    {
+        "user_id": 25,
+        "age": 0.8,
+        "location": "TAS",
+        "maternity_coverage": 1,
+        "budget": 0.45,
+        "budget_amount": 505.0,
+        "insurer_rating_preference": 1
+    },
+    {
+        "user_id": 26,
+        "age": 0.47,
+        "location": "NT",
+        "maternity_coverage": 0,
+        "budget": 0.41,
+        "budget_amount": 469.0,
+        "insurer_rating_preference": 1
+    },
+    {
+        "user_id": 27,
+        "age": 0.19,
+        "location": "ACT",
+        "maternity_coverage": 0,
+        "budget": 0.23,
+        "budget_amount": 307.0,
+        "insurer_rating_preference": 1
+    },
+    {
+        "user_id": 28,
+        "age": 0.71,
+        "location": "SA",
+        "maternity_coverage": 1,
+        "budget": 0.07,
+        "budget_amount": 163.0,
+        "insurer_rating_preference": 1
+    },
+    {
+        "user_id": 29,
+        "age": 0.03,
+        "location": "NT",
+        "maternity_coverage": 1,
+        "budget": 0.88,
+        "budget_amount": 892.0,
+        "insurer_rating_preference": 0
+    },
+    {
+        "user_id": 30,
+        "age": 0.47,
+        "location": "SA",
+        "maternity_coverage": 1,
+        "budget": 0.09,
+        "budget_amount": 181.0,
+        "insurer_rating_preference": 1
+    },
+    {
+        "user_id": 31,
+        "age": 0.09,
+        "location": "QLD",
+        "maternity_coverage": 0,
+        "budget": 0.97,
+        "budget_amount": 973.0,
+        "insurer_rating_preference": 1
+    },
+    {
+        "user_id": 32,
+        "age": 0.6,
+        "location": "TAS",
+        "maternity_coverage": 1,
+        "budget": 0.95,
+        "budget_amount": 955.0,
+        "insurer_rating_preference": 1
+    },
+    {
+        "user_id": 33,
+        "age": 0.25,
+        "location": "VIC",
+        "maternity_coverage": 1,
+        "budget": 0.32,
+        "budget_amount": 388.0,
+        "insurer_rating_preference": 0
+    },
+    {
+        "user_id": 34,
+        "age": 0.15,
+        "location": "QLD",
+        "maternity_coverage": 1,
+        "budget": 0.96,
+        "budget_amount": 964.0,
+        "insurer_rating_preference": 0
+    },
+    {
+        "user_id": 35,
+        "age": 0.98,
+        "location": "ACT",
+        "maternity_coverage": 0,
+        "budget": 0.2,
+        "budget_amount": 280.0,
+        "insurer_rating_preference": 0
+    },
+    {
+        "user_id": 36,
+        "age": 0.2,
+        "location": "TAS",
+        "maternity_coverage": 0,
+        "budget": 0.51,
+        "budget_amount": 559.0,
+        "insurer_rating_preference": 0
+    },
+    {
+        "user_id": 37,
+        "age": 0.25,
+        "location": "NSW",
+        "maternity_coverage": 0,
+        "budget": 0.31,
+        "budget_amount": 379.0,
+        "insurer_rating_preference": 0
+    },
+    {
+        "user_id": 38,
+        "age": 0.28,
+        "location": "NT",
+        "maternity_coverage": 0,
+        "budget": 0.96,
+        "budget_amount": 964.0,
+        "insurer_rating_preference": 1
+    },
+    {
+        "user_id": 39,
+        "age": 0.45,
+        "location": "SA",
+        "maternity_coverage": 1,
+        "budget": 0.13,
+        "budget_amount": 217.0,
+        "insurer_rating_preference": 1
+    },
+    {
+        "user_id": 40,
+        "age": 0.7,
+        "location": "VIC",
+        "maternity_coverage": 1,
+        "budget": 0.37,
+        "budget_amount": 433.0,
+        "insurer_rating_preference": 1
+    },
+    {
+        "user_id": 41,
+        "age": 0.53,
+        "location": "NT",
+        "maternity_coverage": 1,
+        "budget": 0.79,
+        "budget_amount": 811.0,
+        "insurer_rating_preference": 1
+    },
+    {
+        "user_id": 42,
+        "age": 0.71,
+        "location": "NSW",
+        "maternity_coverage": 1,
+        "budget": 0.61,
+        "budget_amount": 649.0,
+        "insurer_rating_preference": 1
+    },
+    {
+        "user_id": 43,
+        "age": 0.92,
+        "location": "NT",
+        "maternity_coverage": 1,
+        "budget": 0.41,
+        "budget_amount": 469.0,
+        "insurer_rating_preference": 0
+    },
+    {
+        "user_id": 44,
+        "age": 0.62,
+        "location": "QLD",
+        "maternity_coverage": 1,
+        "budget": 0.83,
+        "budget_amount": 847.0,
+        "insurer_rating_preference": 0
+    },
+    {
+        "user_id": 45,
+        "age": 0.59,
+        "location": "QLD",
+        "maternity_coverage": 1,
+        "budget": 0.99,
+        "budget_amount": 991.0,
+        "insurer_rating_preference": 1
+    },
+    {
+        "user_id": 46,
+        "age": 0.14,
+        "location": "VIC",
+        "maternity_coverage": 0,
+        "budget": 0.44,
+        "budget_amount": 496.0,
+        "insurer_rating_preference": 0
+    },
+    {
+        "user_id": 47,
+        "age": 0.88,
+        "location": "QLD",
+        "maternity_coverage": 0,
+        "budget": 0.94,
+        "budget_amount": 946.0,
+        "insurer_rating_preference": 0
+    },
+    {
+        "user_id": 48,
+        "age": 0.8,
+        "location": "WA",
+        "maternity_coverage": 1,
+        "budget": 0.67,
+        "budget_amount": 703.0,
+        "insurer_rating_preference": 1
+    },
+    {
+        "user_id": 49,
+        "age": 0.3,
+        "location": "ACT",
+        "maternity_coverage": 1,
+        "budget": 0.91,
+        "budget_amount": 919.0,
+        "insurer_rating_preference": 0
+    },
+    {
+        "user_id": 50,
+        "age": 0.98,
+        "location": "NSW",
+        "maternity_coverage": 1,
+        "budget": 0.34,
+        "budget_amount": 406.0,
+        "insurer_rating_preference": 0
+    },
+    {
+        "user_id": 51,
+        "age": 0.23,
+        "location": "NT",
+        "maternity_coverage": 0,
+        "budget": 0.53,
+        "budget_amount": 577.0,
+        "insurer_rating_preference": 1
+    },
+    {
+        "user_id": 52,
+        "age": 0.0,
+        "location": "TAS",
+        "maternity_coverage": 0,
+        "budget": 0.87,
+        "budget_amount": 883.0,
+        "insurer_rating_preference": 0
+    },
+    {
+        "user_id": 53,
+        "age": 0.24,
+        "location": "VIC",
+        "maternity_coverage": 1,
+        "budget": 0.86,
+        "budget_amount": 874.0,
+        "insurer_rating_preference": 0
+    },
+    {
+        "user_id": 54,
+        "age": 0.89,
+        "location": "WA",
+        "maternity_coverage": 1,
+        "budget": 0.62,
+        "budget_amount": 658.0,
+        "insurer_rating_preference": 0
+    },
+    {
+        "user_id": 55,
+        "age": 0.27,
+        "location": "WA",
+        "maternity_coverage": 1,
+        "budget": 0.35,
+        "budget_amount": 415.0,
+        "insurer_rating_preference": 1
+    },
+    {
+        "user_id": 56,
+        "age": 0.73,
+        "location": "QLD",
+        "maternity_coverage": 1,
+        "budget": 0.66,
+        "budget_amount": 694.0,
+        "insurer_rating_preference": 0
+    },
+    {
+        "user_id": 57,
+        "age": 0.45,
+        "location": "WA",
+        "maternity_coverage": 1,
+        "budget": 0.21,
+        "budget_amount": 289.0,
+        "insurer_rating_preference": 1
+    },
+    {
+        "user_id": 58,
+        "age": 0.49,
+        "location": "TAS",
+        "maternity_coverage": 1,
+        "budget": 0.25,
+        "budget_amount": 325.0,
+        "insurer_rating_preference": 0
+    },
+    {
+        "user_id": 59,
+        "age": 0.37,
+        "location": "NT",
+        "maternity_coverage": 1,
+        "budget": 0.65,
+        "budget_amount": 685.0,
+        "insurer_rating_preference": 0
+    },
+    {
+        "user_id": 60,
+        "age": 0.1,
+        "location": "NT",
+        "maternity_coverage": 1,
+        "budget": 0.96,
+        "budget_amount": 964.0,
+        "insurer_rating_preference": 1
+    },
+    {
+        "user_id": 61,
+        "age": 0.19,
+        "location": "NT",
+        "maternity_coverage": 0,
+        "budget": 0.23,
+        "budget_amount": 307.0,
+        "insurer_rating_preference": 0
+    },
+    {
+        "user_id": 62,
+        "age": 0.71,
+        "location": "VIC",
+        "maternity_coverage": 0,
+        "budget": 0.69,
+        "budget_amount": 721.0,
+        "insurer_rating_preference": 0
+    },
+    {
+        "user_id": 63,
+        "age": 0.76,
+        "location": "NSW",
+        "maternity_coverage": 1,
+        "budget": 0.81,
+        "budget_amount": 829.0,
+        "insurer_rating_preference": 0
+    },
+    {
+        "user_id": 64,
+        "age": 0.74,
+        "location": "ACT",
+        "maternity_coverage": 0,
+        "budget": 0.57,
+        "budget_amount": 613.0,
+        "insurer_rating_preference": 1
+    },
+    {
+        "user_id": 65,
+        "age": 0.64,
+        "location": "VIC",
+        "maternity_coverage": 1,
+        "budget": 0.59,
+        "budget_amount": 631.0,
+        "insurer_rating_preference": 1
+    },
+    {
+        "user_id": 66,
+        "age": 0.38,
+        "location": "WA",
+        "maternity_coverage": 1,
+        "budget": 0.93,
+        "budget_amount": 937.0,
+        "insurer_rating_preference": 1
+    },
+    {
+        "user_id": 67,
+        "age": 0.59,
+        "location": "NT",
+        "maternity_coverage": 1,
+        "budget": 0.91,
+        "budget_amount": 919.0,
+        "insurer_rating_preference": 1
+    },
+    {
+        "user_id": 68,
+        "age": 0.67,
+        "location": "SA",
+        "maternity_coverage": 1,
+        "budget": 0.58,
+        "budget_amount": 622.0,
+        "insurer_rating_preference": 1
+    },
+    {
+        "user_id": 69,
+        "age": 0.33,
+        "location": "WA",
+        "maternity_coverage": 0,
+        "budget": 0.1,
+        "budget_amount": 190.0,
+        "insurer_rating_preference": 1
+    },
+    {
+        "user_id": 70,
+        "age": 0.55,
+        "location": "NT",
+        "maternity_coverage": 0,
+        "budget": 0.08,
+        "budget_amount": 172.0,
+        "insurer_rating_preference": 0
+    },
+    {
+        "user_id": 71,
+        "age": 0.89,
+        "location": "TAS",
+        "maternity_coverage": 1,
+        "budget": 0.57,
+        "budget_amount": 613.0,
+        "insurer_rating_preference": 0
+    },
+    {
+        "user_id": 72,
+        "age": 0.71,
+        "location": "ACT",
+        "maternity_coverage": 1,
+        "budget": 0.83,
+        "budget_amount": 847.0,
+        "insurer_rating_preference": 0
+    },
+    {
+        "user_id": 73,
+        "age": 0.81,
+        "location": "VIC",
+        "maternity_coverage": 1,
+        "budget": 0.59,
+        "budget_amount": 631.0,
+        "insurer_rating_preference": 0
+    },
+    {
+        "user_id": 74,
+        "age": 0.12,
+        "location": "SA",
+        "maternity_coverage": 1,
+        "budget": 0.08,
+        "budget_amount": 172.0,
+        "insurer_rating_preference": 1
+    },
+    {
+        "user_id": 75,
+        "age": 0.76,
+        "location": "VIC",
+        "maternity_coverage": 0,
+        "budget": 0.14,
+        "budget_amount": 226.0,
+        "insurer_rating_preference": 1
+    },
+    {
+        "user_id": 76,
+        "age": 0.22,
+        "location": "TAS",
+        "maternity_coverage": 1,
+        "budget": 0.11,
+        "budget_amount": 199.0,
+        "insurer_rating_preference": 1
+    },
+    {
+        "user_id": 77,
+        "age": 0.91,
+        "location": "QLD",
+        "maternity_coverage": 1,
+        "budget": 0.77,
+        "budget_amount": 793.0,
+        "insurer_rating_preference": 1
+    },
+    {
+        "user_id": 78,
+        "age": 0.41,
+        "location": "TAS",
+        "maternity_coverage": 1,
+        "budget": 0.8,
+        "budget_amount": 820.0,
+        "insurer_rating_preference": 0
+    },
+    {
+        "user_id": 79,
+        "age": 0.15,
+        "location": "WA",
+        "maternity_coverage": 1,
+        "budget": 0.41,
+        "budget_amount": 469.0,
+        "insurer_rating_preference": 1
+    },
+    {
+        "user_id": 80,
+        "age": 0.32,
+        "location": "ACT",
+        "maternity_coverage": 1,
+        "budget": 0.94,
+        "budget_amount": 946.0,
+        "insurer_rating_preference": 0
+    },
+    {
+        "user_id": 81,
+        "age": 0.45,
+        "location": "VIC",
+        "maternity_coverage": 0,
+        "budget": 0.89,
+        "budget_amount": 901.0,
+        "insurer_rating_preference": 1
+    },
+    {
+        "user_id": 82,
+        "age": 0.08,
+        "location": "WA",
+        "maternity_coverage": 1,
+        "budget": 0.9,
+        "budget_amount": 910.0,
+        "insurer_rating_preference": 1
+    },
+    {
+        "user_id": 83,
+        "age": 0.17,
+        "location": "QLD",
+        "maternity_coverage": 0,
+        "budget": 0.8,
+        "budget_amount": 820.0,
+        "insurer_rating_preference": 1
+    },
+    {
+        "user_id": 84,
+        "age": 0.76,
+        "location": "WA",
+        "maternity_coverage": 0,
+        "budget": 0.62,
+        "budget_amount": 658.0,
+        "insurer_rating_preference": 0
+    },
+    {
+        "user_id": 85,
+        "age": 0.12,
+        "location": "VIC",
+        "maternity_coverage": 1,
+        "budget": 0.63,
+        "budget_amount": 667.0,
+        "insurer_rating_preference": 0
+    },
+    {
+        "user_id": 86,
+        "age": 0.04,
+        "location": "NT",
+        "maternity_coverage": 0,
+        "budget": 0.24,
+        "budget_amount": 316.0,
+        "insurer_rating_preference": 0
+    },
+    {
+        "user_id": 87,
+        "age": 0.84,
+        "location": "NT",
+        "maternity_coverage": 0,
+        "budget": 0.67,
+        "budget_amount": 703.0,
+        "insurer_rating_preference": 1
+    },
+    {
+        "user_id": 88,
+        "age": 0.64,
+        "location": "WA",
+        "maternity_coverage": 0,
+        "budget": 0.34,
+        "budget_amount": 406.0,
+        "insurer_rating_preference": 1
+    },
+    {
+        "user_id": 89,
+        "age": 0.42,
+        "location": "NT",
+        "maternity_coverage": 1,
+        "budget": 0.59,
+        "budget_amount": 631.0,
+        "insurer_rating_preference": 0
+    },
+    {
+        "user_id": 90,
+        "age": 0.42,
+        "location": "TAS",
+        "maternity_coverage": 0,
+        "budget": 0.14,
+        "budget_amount": 226.0,
+        "insurer_rating_preference": 1
+    },
+    {
+        "user_id": 91,
+        "age": 0.41,
+        "location": "TAS",
+        "maternity_coverage": 1,
+        "budget": 0.75,
+        "budget_amount": 775.0,
+        "insurer_rating_preference": 1
+    },
+    {
+        "user_id": 92,
+        "age": 0.15,
+        "location": "ACT",
+        "maternity_coverage": 1,
+        "budget": 0.84,
+        "budget_amount": 856.0,
+        "insurer_rating_preference": 1
+    },
+    {
+        "user_id": 93,
+        "age": 0.74,
+        "location": "NT",
+        "maternity_coverage": 0,
+        "budget": 0.42,
+        "budget_amount": 478.0,
+        "insurer_rating_preference": 1
+    },
+    {
+        "user_id": 94,
+        "age": 0.8,
+        "location": "NT",
+        "maternity_coverage": 1,
+        "budget": 0.66,
+        "budget_amount": 694.0,
+        "insurer_rating_preference": 1
+    },
+    {
+        "user_id": 95,
+        "age": 0.88,
+        "location": "NSW",
+        "maternity_coverage": 1,
+        "budget": 0.07,
+        "budget_amount": 163.0,
+        "insurer_rating_preference": 1
+    },
+    {
+        "user_id": 96,
+        "age": 0.52,
+        "location": "TAS",
+        "maternity_coverage": 0,
+        "budget": 0.49,
+        "budget_amount": 541.0,
+        "insurer_rating_preference": 1
+    },
+    {
+        "user_id": 97,
+        "age": 0.26,
+        "location": "ACT",
+        "maternity_coverage": 1,
+        "budget": 0.14,
+        "budget_amount": 226.0,
+        "insurer_rating_preference": 0
+    },
+    {
+        "user_id": 98,
+        "age": 0.58,
+        "location": "WA",
+        "maternity_coverage": 1,
+        "budget": 0.87,
+        "budget_amount": 883.0,
+        "insurer_rating_preference": 0
+    },
+    {
+        "user_id": 99,
+        "age": 0.57,
+        "location": "QLD",
+        "maternity_coverage": 0,
+        "budget": 0.97,
+        "budget_amount": 973.0,
+        "insurer_rating_preference": 0
+    }
+]

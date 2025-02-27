@@ -1,0 +1,2914 @@
+[
+    {
+        "policy_id": 0,
+        "premium": 0.735,
+        "premium_amount": 735.0,
+        "waiting_period": 90,
+        "coverage": [
+            "ambulance",
+            "mental_health",
+            "chiro"
+        ],
+        "insurer_rating": 0.71
+    },
+    {
+        "policy_id": 1,
+        "premium": 0.519,
+        "premium_amount": 519.0,
+        "waiting_period": 180,
+        "coverage": [
+            "dental",
+            "ambulance",
+            "rehabilitation",
+            "physio",
+            "maternity",
+            "hospital_partnership",
+            "neonatal",
+            "cardiology"
+        ],
+        "insurer_rating": 0.76
+    },
+    {
+        "policy_id": 2,
+        "premium": 0.62,
+        "premium_amount": 620.0,
+        "waiting_period": 30,
+        "coverage": [
+            "ambulance",
+            "neonatal",
+            "hospital_partnership"
+        ],
+        "insurer_rating": 0.78
+    },
+    {
+        "policy_id": 3,
+        "premium": 0.175,
+        "premium_amount": 175.0,
+        "waiting_period": 30,
+        "coverage": [
+            "cardiology",
+            "neonatal",
+            "optical",
+            "maternity"
+        ],
+        "insurer_rating": 0.73
+    },
+    {
+        "policy_id": 4,
+        "premium": 0.215,
+        "premium_amount": 215.0,
+        "waiting_period": 0,
+        "coverage": [
+            "ambulance",
+            "maternity",
+            "hospital_partnership",
+            "mental_health",
+            "rehabilitation"
+        ],
+        "insurer_rating": 0.74
+    },
+    {
+        "policy_id": 5,
+        "premium": 0.972,
+        "premium_amount": 972.0,
+        "waiting_period": 30,
+        "coverage": [
+            "ambulance",
+            "hospital_partnership",
+            "maternity"
+        ],
+        "insurer_rating": 0.7
+    },
+    {
+        "policy_id": 6,
+        "premium": 0.915,
+        "premium_amount": 915.0,
+        "waiting_period": 60,
+        "coverage": [
+            "neonatal",
+            "physio",
+            "hospital",
+            "ambulance",
+            "optical",
+            "rehabilitation",
+            "chiro",
+            "dental"
+        ],
+        "insurer_rating": 0.72
+    },
+    {
+        "policy_id": 7,
+        "premium": 0.298,
+        "premium_amount": 298.0,
+        "waiting_period": 180,
+        "coverage": [
+            "optical",
+            "cardiology",
+            "dental",
+            "physio",
+            "maternity",
+            "hospital",
+            "mental_health",
+            "rehabilitation"
+        ],
+        "insurer_rating": 0.85
+    },
+    {
+        "policy_id": 8,
+        "premium": 0.758,
+        "premium_amount": 758.0,
+        "waiting_period": 30,
+        "coverage": [
+            "hospital",
+            "cardiology",
+            "hospital_partnership"
+        ],
+        "insurer_rating": 0.95
+    },
+    {
+        "policy_id": 9,
+        "premium": 0.755,
+        "premium_amount": 755.0,
+        "waiting_period": 60,
+        "coverage": [
+            "dental",
+            "chiro",
+            "hospital",
+            "maternity"
+        ],
+        "insurer_rating": 0.7
+    },
+    {
+        "policy_id": 10,
+        "premium": 0.131,
+        "premium_amount": 131.0,
+        "waiting_period": 180,
+        "coverage": [
+            "maternity",
+            "optical",
+            "rehabilitation",
+            "physio",
+            "hospital_partnership",
+            "hospital",
+            "cardiology",
+            "neonatal"
+        ],
+        "insurer_rating": 0.91
+    },
+    {
+        "policy_id": 11,
+        "premium": 0.728,
+        "premium_amount": 728.0,
+        "waiting_period": 0,
+        "coverage": [
+            "dental",
+            "cardiology",
+            "maternity",
+            "optical",
+            "hospital",
+            "mental_health",
+            "neonatal",
+            "hospital_partnership"
+        ],
+        "insurer_rating": 0.71
+    },
+    {
+        "policy_id": 12,
+        "premium": 0.94,
+        "premium_amount": 940.0,
+        "waiting_period": 60,
+        "coverage": [
+            "physio",
+            "ambulance",
+            "cardiology",
+            "mental_health",
+            "rehabilitation"
+        ],
+        "insurer_rating": 0.71
+    },
+    {
+        "policy_id": 13,
+        "premium": 0.922,
+        "premium_amount": 922.0,
+        "waiting_period": 0,
+        "coverage": [
+            "ambulance",
+            "physio",
+            "maternity",
+            "hospital",
+            "neonatal",
+            "rehabilitation"
+        ],
+        "insurer_rating": 0.91
+    },
+    {
+        "policy_id": 14,
+        "premium": 0.932,
+        "premium_amount": 932.0,
+        "waiting_period": 180,
+        "coverage": [
+            "cardiology",
+            "physio",
+            "rehabilitation",
+            "chiro",
+            "maternity",
+            "optical",
+            "neonatal"
+        ],
+        "insurer_rating": 0.83
+    },
+    {
+        "policy_id": 15,
+        "premium": 0.984,
+        "premium_amount": 984.0,
+        "waiting_period": 14,
+        "coverage": [
+            "hospital",
+            "dental",
+            "maternity",
+            "mental_health",
+            "neonatal",
+            "rehabilitation"
+        ],
+        "insurer_rating": 0.71
+    },
+    {
+        "policy_id": 16,
+        "premium": 0.169,
+        "premium_amount": 169.0,
+        "waiting_period": 60,
+        "coverage": [
+            "dental",
+            "cardiology",
+            "optical",
+            "neonatal",
+            "hospital_partnership",
+            "hospital"
+        ],
+        "insurer_rating": 0.92
+    },
+    {
+        "policy_id": 17,
+        "premium": 0.793,
+        "premium_amount": 793.0,
+        "waiting_period": 60,
+        "coverage": [
+            "rehabilitation",
+            "hospital",
+            "physio",
+            "hospital_partnership"
+        ],
+        "insurer_rating": 0.94
+    },
+    {
+        "policy_id": 18,
+        "premium": 0.97,
+        "premium_amount": 970.0,
+        "waiting_period": 60,
+        "coverage": [
+            "optical",
+            "rehabilitation",
+            "maternity",
+            "dental",
+            "physio",
+            "chiro",
+            "ambulance"
+        ],
+        "insurer_rating": 0.96
+    },
+    {
+        "policy_id": 19,
+        "premium": 0.902,
+        "premium_amount": 902.0,
+        "waiting_period": 60,
+        "coverage": [
+            "dental",
+            "mental_health",
+            "chiro",
+            "hospital"
+        ],
+        "insurer_rating": 0.81
+    },
+    {
+        "policy_id": 20,
+        "premium": 0.265,
+        "premium_amount": 265.0,
+        "waiting_period": 90,
+        "coverage": [
+            "dental",
+            "neonatal",
+            "maternity"
+        ],
+        "insurer_rating": 0.78
+    },
+    {
+        "policy_id": 21,
+        "premium": 0.975,
+        "premium_amount": 975.0,
+        "waiting_period": 14,
+        "coverage": [
+            "optical",
+            "ambulance",
+            "chiro",
+            "hospital_partnership"
+        ],
+        "insurer_rating": 0.74
+    },
+    {
+        "policy_id": 22,
+        "premium": 0.847,
+        "premium_amount": 847.0,
+        "waiting_period": 90,
+        "coverage": [
+            "neonatal",
+            "ambulance",
+            "maternity",
+            "rehabilitation",
+            "chiro",
+            "hospital_partnership",
+            "dental"
+        ],
+        "insurer_rating": 0.88
+    },
+    {
+        "policy_id": 23,
+        "premium": 0.219,
+        "premium_amount": 219.0,
+        "waiting_period": 14,
+        "coverage": [
+            "dental",
+            "cardiology",
+            "hospital",
+            "mental_health"
+        ],
+        "insurer_rating": 0.83
+    },
+    {
+        "policy_id": 24,
+        "premium": 0.607,
+        "premium_amount": 607.0,
+        "waiting_period": 30,
+        "coverage": [
+            "mental_health",
+            "hospital_partnership",
+            "hospital",
+            "optical",
+            "rehabilitation",
+            "maternity"
+        ],
+        "insurer_rating": 0.93
+    },
+    {
+        "policy_id": 25,
+        "premium": 0.95,
+        "premium_amount": 950.0,
+        "waiting_period": 14,
+        "coverage": [
+            "physio",
+            "chiro",
+            "ambulance",
+            "neonatal",
+            "optical",
+            "hospital",
+            "maternity",
+            "rehabilitation"
+        ],
+        "insurer_rating": 0.77
+    },
+    {
+        "policy_id": 26,
+        "premium": 0.448,
+        "premium_amount": 448.0,
+        "waiting_period": 90,
+        "coverage": [
+            "optical",
+            "dental",
+            "maternity",
+            "rehabilitation",
+            "hospital",
+            "physio",
+            "cardiology",
+            "ambulance"
+        ],
+        "insurer_rating": 0.95
+    },
+    {
+        "policy_id": 27,
+        "premium": 0.155,
+        "premium_amount": 155.0,
+        "waiting_period": 180,
+        "coverage": [
+            "optical",
+            "hospital_partnership",
+            "physio",
+            "chiro",
+            "maternity",
+            "cardiology",
+            "mental_health",
+            "dental"
+        ],
+        "insurer_rating": 0.87
+    },
+    {
+        "policy_id": 28,
+        "premium": 0.539,
+        "premium_amount": 539.0,
+        "waiting_period": 30,
+        "coverage": [
+            "hospital_partnership",
+            "ambulance",
+            "maternity",
+            "chiro",
+            "neonatal"
+        ],
+        "insurer_rating": 0.82
+    },
+    {
+        "policy_id": 29,
+        "premium": 0.647,
+        "premium_amount": 647.0,
+        "waiting_period": 30,
+        "coverage": [
+            "dental",
+            "optical",
+            "rehabilitation",
+            "physio",
+            "maternity",
+            "mental_health",
+            "ambulance",
+            "neonatal"
+        ],
+        "insurer_rating": 0.85
+    },
+    {
+        "policy_id": 30,
+        "premium": 0.586,
+        "premium_amount": 586.0,
+        "waiting_period": 60,
+        "coverage": [
+            "physio",
+            "rehabilitation",
+            "hospital_partnership",
+            "cardiology",
+            "mental_health",
+            "neonatal"
+        ],
+        "insurer_rating": 0.86
+    },
+    {
+        "policy_id": 31,
+        "premium": 0.197,
+        "premium_amount": 197.0,
+        "waiting_period": 0,
+        "coverage": [
+            "maternity",
+            "optical",
+            "mental_health",
+            "ambulance"
+        ],
+        "insurer_rating": 0.81
+    },
+    {
+        "policy_id": 32,
+        "premium": 0.325,
+        "premium_amount": 325.0,
+        "waiting_period": 30,
+        "coverage": [
+            "mental_health",
+            "cardiology",
+            "dental",
+            "ambulance",
+            "hospital_partnership"
+        ],
+        "insurer_rating": 0.84
+    },
+    {
+        "policy_id": 33,
+        "premium": 0.921,
+        "premium_amount": 921.0,
+        "waiting_period": 60,
+        "coverage": [
+            "cardiology",
+            "physio",
+            "chiro",
+            "hospital_partnership",
+            "neonatal",
+            "maternity"
+        ],
+        "insurer_rating": 0.85
+    },
+    {
+        "policy_id": 34,
+        "premium": 0.235,
+        "premium_amount": 235.0,
+        "waiting_period": 14,
+        "coverage": [
+            "rehabilitation",
+            "neonatal",
+            "cardiology",
+            "dental",
+            "maternity"
+        ],
+        "insurer_rating": 0.77
+    },
+    {
+        "policy_id": 35,
+        "premium": 0.919,
+        "premium_amount": 919.0,
+        "waiting_period": 90,
+        "coverage": [
+            "dental",
+            "mental_health",
+            "rehabilitation",
+            "neonatal",
+            "cardiology",
+            "ambulance"
+        ],
+        "insurer_rating": 0.74
+    },
+    {
+        "policy_id": 36,
+        "premium": 0.39,
+        "premium_amount": 390.0,
+        "waiting_period": 90,
+        "coverage": [
+            "neonatal",
+            "ambulance",
+            "physio",
+            "mental_health",
+            "hospital_partnership"
+        ],
+        "insurer_rating": 0.8
+    },
+    {
+        "policy_id": 37,
+        "premium": 0.757,
+        "premium_amount": 757.0,
+        "waiting_period": 30,
+        "coverage": [
+            "chiro",
+            "optical",
+            "maternity",
+            "hospital_partnership",
+            "ambulance",
+            "cardiology",
+            "mental_health",
+            "physio"
+        ],
+        "insurer_rating": 0.71
+    },
+    {
+        "policy_id": 38,
+        "premium": 0.545,
+        "premium_amount": 545.0,
+        "waiting_period": 30,
+        "coverage": [
+            "mental_health",
+            "ambulance",
+            "hospital",
+            "dental",
+            "optical"
+        ],
+        "insurer_rating": 0.75
+    },
+    {
+        "policy_id": 39,
+        "premium": 0.153,
+        "premium_amount": 153.0,
+        "waiting_period": 60,
+        "coverage": [
+            "ambulance",
+            "rehabilitation",
+            "mental_health",
+            "hospital",
+            "hospital_partnership"
+        ],
+        "insurer_rating": 0.82
+    },
+    {
+        "policy_id": 40,
+        "premium": 0.276,
+        "premium_amount": 276.0,
+        "waiting_period": 30,
+        "coverage": [
+            "maternity",
+            "ambulance",
+            "chiro",
+            "hospital",
+            "mental_health",
+            "hospital_partnership",
+            "neonatal"
+        ],
+        "insurer_rating": 0.81
+    },
+    {
+        "policy_id": 41,
+        "premium": 0.738,
+        "premium_amount": 738.0,
+        "waiting_period": 60,
+        "coverage": [
+            "neonatal",
+            "hospital",
+            "physio",
+            "optical"
+        ],
+        "insurer_rating": 0.8
+    },
+    {
+        "policy_id": 42,
+        "premium": 0.664,
+        "premium_amount": 664.0,
+        "waiting_period": 30,
+        "coverage": [
+            "physio",
+            "maternity",
+            "neonatal",
+            "hospital",
+            "optical",
+            "rehabilitation"
+        ],
+        "insurer_rating": 0.8
+    },
+    {
+        "policy_id": 43,
+        "premium": 0.918,
+        "premium_amount": 918.0,
+        "waiting_period": 0,
+        "coverage": [
+            "dental",
+            "rehabilitation",
+            "hospital",
+            "cardiology",
+            "chiro"
+        ],
+        "insurer_rating": 0.79
+    },
+    {
+        "policy_id": 44,
+        "premium": 0.727,
+        "premium_amount": 727.0,
+        "waiting_period": 90,
+        "coverage": [
+            "hospital",
+            "chiro",
+            "dental",
+            "ambulance",
+            "hospital_partnership"
+        ],
+        "insurer_rating": 0.76
+    },
+    {
+        "policy_id": 45,
+        "premium": 0.87,
+        "premium_amount": 870.0,
+        "waiting_period": 60,
+        "coverage": [
+            "mental_health",
+            "hospital",
+            "neonatal",
+            "dental",
+            "ambulance",
+            "cardiology",
+            "physio",
+            "chiro"
+        ],
+        "insurer_rating": 0.86
+    },
+    {
+        "policy_id": 46,
+        "premium": 0.405,
+        "premium_amount": 405.0,
+        "waiting_period": 180,
+        "coverage": [
+            "chiro",
+            "cardiology",
+            "optical",
+            "neonatal",
+            "hospital_partnership",
+            "rehabilitation",
+            "mental_health"
+        ],
+        "insurer_rating": 0.76
+    },
+    {
+        "policy_id": 47,
+        "premium": 0.488,
+        "premium_amount": 488.0,
+        "waiting_period": 30,
+        "coverage": [
+            "dental",
+            "mental_health",
+            "hospital"
+        ],
+        "insurer_rating": 0.86
+    },
+    {
+        "policy_id": 48,
+        "premium": 0.85,
+        "premium_amount": 850.0,
+        "waiting_period": 180,
+        "coverage": [
+            "dental",
+            "ambulance",
+            "physio",
+            "rehabilitation",
+            "cardiology",
+            "hospital_partnership",
+            "mental_health",
+            "maternity"
+        ],
+        "insurer_rating": 0.76
+    },
+    {
+        "policy_id": 49,
+        "premium": 0.52,
+        "premium_amount": 520.0,
+        "waiting_period": 0,
+        "coverage": [
+            "hospital_partnership",
+            "ambulance",
+            "rehabilitation",
+            "chiro",
+            "mental_health",
+            "optical",
+            "physio",
+            "dental"
+        ],
+        "insurer_rating": 0.77
+    },
+    {
+        "policy_id": 50,
+        "premium": 0.805,
+        "premium_amount": 805.0,
+        "waiting_period": 180,
+        "coverage": [
+            "cardiology",
+            "neonatal",
+            "dental",
+            "hospital",
+            "hospital_partnership",
+            "ambulance"
+        ],
+        "insurer_rating": 0.81
+    },
+    {
+        "policy_id": 51,
+        "premium": 0.678,
+        "premium_amount": 678.0,
+        "waiting_period": 14,
+        "coverage": [
+            "hospital_partnership",
+            "maternity",
+            "mental_health"
+        ],
+        "insurer_rating": 0.71
+    },
+    {
+        "policy_id": 52,
+        "premium": 0.227,
+        "premium_amount": 227.0,
+        "waiting_period": 14,
+        "coverage": [
+            "optical",
+            "dental",
+            "hospital_partnership",
+            "chiro",
+            "mental_health"
+        ],
+        "insurer_rating": 0.77
+    },
+    {
+        "policy_id": 53,
+        "premium": 0.736,
+        "premium_amount": 736.0,
+        "waiting_period": 30,
+        "coverage": [
+            "ambulance",
+            "dental",
+            "optical",
+            "cardiology",
+            "neonatal"
+        ],
+        "insurer_rating": 0.77
+    },
+    {
+        "policy_id": 54,
+        "premium": 0.723,
+        "premium_amount": 723.0,
+        "waiting_period": 90,
+        "coverage": [
+            "cardiology",
+            "chiro",
+            "hospital_partnership",
+            "hospital",
+            "ambulance",
+            "maternity",
+            "optical"
+        ],
+        "insurer_rating": 0.76
+    },
+    {
+        "policy_id": 55,
+        "premium": 0.922,
+        "premium_amount": 922.0,
+        "waiting_period": 180,
+        "coverage": [
+            "chiro",
+            "hospital",
+            "optical",
+            "neonatal",
+            "rehabilitation",
+            "hospital_partnership",
+            "maternity"
+        ],
+        "insurer_rating": 0.83
+    },
+    {
+        "policy_id": 56,
+        "premium": 0.945,
+        "premium_amount": 945.0,
+        "waiting_period": 90,
+        "coverage": [
+            "mental_health",
+            "physio",
+            "maternity",
+            "neonatal",
+            "optical",
+            "hospital",
+            "dental"
+        ],
+        "insurer_rating": 0.8
+    },
+    {
+        "policy_id": 57,
+        "premium": 0.4,
+        "premium_amount": 400.0,
+        "waiting_period": 30,
+        "coverage": [
+            "chiro",
+            "hospital",
+            "rehabilitation",
+            "optical",
+            "hospital_partnership",
+            "cardiology",
+            "dental"
+        ],
+        "insurer_rating": 0.79
+    },
+    {
+        "policy_id": 58,
+        "premium": 0.45,
+        "premium_amount": 450.0,
+        "waiting_period": 0,
+        "coverage": [
+            "dental",
+            "rehabilitation",
+            "ambulance",
+            "neonatal",
+            "maternity",
+            "hospital_partnership",
+            "chiro"
+        ],
+        "insurer_rating": 0.83
+    },
+    {
+        "policy_id": 59,
+        "premium": 0.405,
+        "premium_amount": 405.0,
+        "waiting_period": 60,
+        "coverage": [
+            "mental_health",
+            "ambulance",
+            "rehabilitation",
+            "physio",
+            "chiro",
+            "cardiology",
+            "neonatal"
+        ],
+        "insurer_rating": 0.73
+    },
+    {
+        "policy_id": 60,
+        "premium": 0.236,
+        "premium_amount": 236.0,
+        "waiting_period": 60,
+        "coverage": [
+            "ambulance",
+            "hospital_partnership",
+            "optical",
+            "cardiology",
+            "neonatal",
+            "dental",
+            "mental_health",
+            "rehabilitation"
+        ],
+        "insurer_rating": 0.96
+    },
+    {
+        "policy_id": 61,
+        "premium": 0.957,
+        "premium_amount": 957.0,
+        "waiting_period": 180,
+        "coverage": [
+            "optical",
+            "dental",
+            "physio",
+            "cardiology"
+        ],
+        "insurer_rating": 0.87
+    },
+    {
+        "policy_id": 62,
+        "premium": 0.946,
+        "premium_amount": 946.0,
+        "waiting_period": 180,
+        "coverage": [
+            "maternity",
+            "cardiology",
+            "physio"
+        ],
+        "insurer_rating": 0.73
+    },
+    {
+        "policy_id": 63,
+        "premium": 0.119,
+        "premium_amount": 119.0,
+        "waiting_period": 60,
+        "coverage": [
+            "cardiology",
+            "optical",
+            "mental_health"
+        ],
+        "insurer_rating": 0.92
+    },
+    {
+        "policy_id": 64,
+        "premium": 0.529,
+        "premium_amount": 529.0,
+        "waiting_period": 180,
+        "coverage": [
+            "chiro",
+            "hospital",
+            "cardiology",
+            "rehabilitation",
+            "optical"
+        ],
+        "insurer_rating": 0.96
+    },
+    {
+        "policy_id": 65,
+        "premium": 0.822,
+        "premium_amount": 822.0,
+        "waiting_period": 0,
+        "coverage": [
+            "neonatal",
+            "physio",
+            "hospital"
+        ],
+        "insurer_rating": 0.95
+    },
+    {
+        "policy_id": 66,
+        "premium": 0.215,
+        "premium_amount": 215.0,
+        "waiting_period": 180,
+        "coverage": [
+            "hospital",
+            "physio",
+            "cardiology",
+            "neonatal",
+            "dental",
+            "chiro",
+            "ambulance",
+            "mental_health"
+        ],
+        "insurer_rating": 0.77
+    },
+    {
+        "policy_id": 67,
+        "premium": 0.155,
+        "premium_amount": 155.0,
+        "waiting_period": 14,
+        "coverage": [
+            "optical",
+            "rehabilitation",
+            "hospital_partnership"
+        ],
+        "insurer_rating": 0.9
+    },
+    {
+        "policy_id": 68,
+        "premium": 0.688,
+        "premium_amount": 688.0,
+        "waiting_period": 0,
+        "coverage": [
+            "ambulance",
+            "neonatal",
+            "hospital_partnership"
+        ],
+        "insurer_rating": 0.79
+    },
+    {
+        "policy_id": 69,
+        "premium": 0.793,
+        "premium_amount": 793.0,
+        "waiting_period": 14,
+        "coverage": [
+            "maternity",
+            "dental",
+            "neonatal",
+            "physio",
+            "cardiology",
+            "rehabilitation",
+            "hospital_partnership",
+            "ambulance"
+        ],
+        "insurer_rating": 0.98
+    },
+    {
+        "policy_id": 70,
+        "premium": 0.18,
+        "premium_amount": 180.0,
+        "waiting_period": 30,
+        "coverage": [
+            "hospital",
+            "rehabilitation",
+            "ambulance",
+            "physio",
+            "chiro",
+            "neonatal"
+        ],
+        "insurer_rating": 0.78
+    },
+    {
+        "policy_id": 71,
+        "premium": 0.677,
+        "premium_amount": 677.0,
+        "waiting_period": 90,
+        "coverage": [
+            "maternity",
+            "hospital",
+            "dental",
+            "cardiology",
+            "rehabilitation",
+            "chiro",
+            "hospital_partnership"
+        ],
+        "insurer_rating": 0.92
+    },
+    {
+        "policy_id": 72,
+        "premium": 0.823,
+        "premium_amount": 823.0,
+        "waiting_period": 180,
+        "coverage": [
+            "optical",
+            "hospital_partnership",
+            "maternity"
+        ],
+        "insurer_rating": 0.92
+    },
+    {
+        "policy_id": 73,
+        "premium": 0.404,
+        "premium_amount": 404.0,
+        "waiting_period": 0,
+        "coverage": [
+            "dental",
+            "hospital",
+            "physio",
+            "chiro",
+            "cardiology"
+        ],
+        "insurer_rating": 0.71
+    },
+    {
+        "policy_id": 74,
+        "premium": 0.834,
+        "premium_amount": 834.0,
+        "waiting_period": 180,
+        "coverage": [
+            "neonatal",
+            "rehabilitation",
+            "physio",
+            "hospital_partnership"
+        ],
+        "insurer_rating": 0.71
+    },
+    {
+        "policy_id": 75,
+        "premium": 0.485,
+        "premium_amount": 485.0,
+        "waiting_period": 0,
+        "coverage": [
+            "neonatal",
+            "dental",
+            "chiro"
+        ],
+        "insurer_rating": 0.74
+    },
+    {
+        "policy_id": 76,
+        "premium": 0.197,
+        "premium_amount": 197.0,
+        "waiting_period": 90,
+        "coverage": [
+            "rehabilitation",
+            "maternity",
+            "cardiology",
+            "hospital",
+            "physio"
+        ],
+        "insurer_rating": 0.71
+    },
+    {
+        "policy_id": 77,
+        "premium": 0.938,
+        "premium_amount": 938.0,
+        "waiting_period": 14,
+        "coverage": [
+            "neonatal",
+            "hospital",
+            "rehabilitation",
+            "ambulance"
+        ],
+        "insurer_rating": 0.81
+    },
+    {
+        "policy_id": 78,
+        "premium": 0.654,
+        "premium_amount": 654.0,
+        "waiting_period": 14,
+        "coverage": [
+            "hospital_partnership",
+            "mental_health",
+            "rehabilitation",
+            "hospital",
+            "maternity",
+            "optical",
+            "neonatal"
+        ],
+        "insurer_rating": 0.84
+    },
+    {
+        "policy_id": 79,
+        "premium": 0.418,
+        "premium_amount": 418.0,
+        "waiting_period": 0,
+        "coverage": [
+            "dental",
+            "optical",
+            "maternity",
+            "ambulance",
+            "neonatal",
+            "physio"
+        ],
+        "insurer_rating": 0.83
+    },
+    {
+        "policy_id": 80,
+        "premium": 0.689,
+        "premium_amount": 689.0,
+        "waiting_period": 30,
+        "coverage": [
+            "ambulance",
+            "maternity",
+            "dental",
+            "neonatal",
+            "rehabilitation",
+            "cardiology",
+            "chiro"
+        ],
+        "insurer_rating": 0.98
+    },
+    {
+        "policy_id": 81,
+        "premium": 0.706,
+        "premium_amount": 706.0,
+        "waiting_period": 90,
+        "coverage": [
+            "rehabilitation",
+            "chiro",
+            "neonatal",
+            "physio",
+            "maternity",
+            "optical"
+        ],
+        "insurer_rating": 0.7
+    },
+    {
+        "policy_id": 82,
+        "premium": 0.385,
+        "premium_amount": 385.0,
+        "waiting_period": 0,
+        "coverage": [
+            "mental_health",
+            "cardiology",
+            "rehabilitation",
+            "neonatal",
+            "dental"
+        ],
+        "insurer_rating": 0.93
+    },
+    {
+        "policy_id": 83,
+        "premium": 0.311,
+        "premium_amount": 311.0,
+        "waiting_period": 180,
+        "coverage": [
+            "mental_health",
+            "chiro",
+            "maternity",
+            "physio",
+            "rehabilitation"
+        ],
+        "insurer_rating": 0.9
+    },
+    {
+        "policy_id": 84,
+        "premium": 0.143,
+        "premium_amount": 143.0,
+        "waiting_period": 14,
+        "coverage": [
+            "chiro",
+            "optical",
+            "rehabilitation",
+            "physio",
+            "mental_health",
+            "hospital",
+            "dental",
+            "cardiology"
+        ],
+        "insurer_rating": 0.84
+    },
+    {
+        "policy_id": 85,
+        "premium": 0.562,
+        "premium_amount": 562.0,
+        "waiting_period": 30,
+        "coverage": [
+            "optical",
+            "dental",
+            "ambulance"
+        ],
+        "insurer_rating": 0.96
+    },
+    {
+        "policy_id": 86,
+        "premium": 0.366,
+        "premium_amount": 366.0,
+        "waiting_period": 30,
+        "coverage": [
+            "hospital",
+            "mental_health",
+            "cardiology",
+            "ambulance",
+            "rehabilitation",
+            "optical"
+        ],
+        "insurer_rating": 0.79
+    },
+    {
+        "policy_id": 87,
+        "premium": 0.439,
+        "premium_amount": 439.0,
+        "waiting_period": 0,
+        "coverage": [
+            "chiro",
+            "dental",
+            "ambulance",
+            "neonatal"
+        ],
+        "insurer_rating": 0.71
+    },
+    {
+        "policy_id": 88,
+        "premium": 0.506,
+        "premium_amount": 506.0,
+        "waiting_period": 30,
+        "coverage": [
+            "maternity",
+            "optical",
+            "mental_health",
+            "physio",
+            "rehabilitation",
+            "hospital_partnership",
+            "cardiology",
+            "chiro"
+        ],
+        "insurer_rating": 0.91
+    },
+    {
+        "policy_id": 89,
+        "premium": 0.987,
+        "premium_amount": 987.0,
+        "waiting_period": 180,
+        "coverage": [
+            "optical",
+            "ambulance",
+            "hospital"
+        ],
+        "insurer_rating": 0.77
+    },
+    {
+        "policy_id": 90,
+        "premium": 0.417,
+        "premium_amount": 417.0,
+        "waiting_period": 30,
+        "coverage": [
+            "optical",
+            "hospital_partnership",
+            "cardiology",
+            "physio",
+            "chiro",
+            "rehabilitation",
+            "neonatal"
+        ],
+        "insurer_rating": 0.83
+    },
+    {
+        "policy_id": 91,
+        "premium": 0.123,
+        "premium_amount": 123.0,
+        "waiting_period": 14,
+        "coverage": [
+            "mental_health",
+            "cardiology",
+            "rehabilitation",
+            "optical",
+            "maternity",
+            "chiro"
+        ],
+        "insurer_rating": 0.89
+    },
+    {
+        "policy_id": 92,
+        "premium": 0.252,
+        "premium_amount": 252.0,
+        "waiting_period": 14,
+        "coverage": [
+            "rehabilitation",
+            "dental",
+            "hospital",
+            "neonatal",
+            "hospital_partnership"
+        ],
+        "insurer_rating": 0.97
+    },
+    {
+        "policy_id": 93,
+        "premium": 0.937,
+        "premium_amount": 937.0,
+        "waiting_period": 90,
+        "coverage": [
+            "mental_health",
+            "neonatal",
+            "hospital",
+            "hospital_partnership"
+        ],
+        "insurer_rating": 0.81
+    },
+    {
+        "policy_id": 94,
+        "premium": 0.533,
+        "premium_amount": 533.0,
+        "waiting_period": 14,
+        "coverage": [
+            "maternity",
+            "optical",
+            "chiro",
+            "rehabilitation",
+            "neonatal",
+            "mental_health",
+            "hospital",
+            "ambulance"
+        ],
+        "insurer_rating": 0.84
+    },
+    {
+        "policy_id": 95,
+        "premium": 0.764,
+        "premium_amount": 764.0,
+        "waiting_period": 0,
+        "coverage": [
+            "maternity",
+            "hospital",
+            "ambulance",
+            "optical",
+            "rehabilitation",
+            "mental_health"
+        ],
+        "insurer_rating": 0.88
+    },
+    {
+        "policy_id": 96,
+        "premium": 0.541,
+        "premium_amount": 541.0,
+        "waiting_period": 180,
+        "coverage": [
+            "maternity",
+            "rehabilitation",
+            "dental",
+            "cardiology"
+        ],
+        "insurer_rating": 0.83
+    },
+    {
+        "policy_id": 97,
+        "premium": 0.719,
+        "premium_amount": 719.0,
+        "waiting_period": 14,
+        "coverage": [
+            "mental_health",
+            "dental",
+            "hospital",
+            "cardiology",
+            "ambulance",
+            "physio"
+        ],
+        "insurer_rating": 0.92
+    },
+    {
+        "policy_id": 98,
+        "premium": 0.252,
+        "premium_amount": 252.0,
+        "waiting_period": 14,
+        "coverage": [
+            "optical",
+            "chiro",
+            "mental_health",
+            "ambulance",
+            "hospital_partnership",
+            "neonatal",
+            "dental",
+            "rehabilitation"
+        ],
+        "insurer_rating": 0.97
+    },
+    {
+        "policy_id": 99,
+        "premium": 0.495,
+        "premium_amount": 495.0,
+        "waiting_period": 180,
+        "coverage": [
+            "mental_health",
+            "hospital",
+            "chiro",
+            "dental"
+        ],
+        "insurer_rating": 0.76
+    },
+    {
+        "policy_id": 100,
+        "premium": 0.23,
+        "premium_amount": 230.0,
+        "waiting_period": 30,
+        "coverage": [
+            "dental",
+            "chiro",
+            "ambulance",
+            "rehabilitation",
+            "optical",
+            "hospital_partnership"
+        ],
+        "insurer_rating": 0.94
+    },
+    {
+        "policy_id": 101,
+        "premium": 0.449,
+        "premium_amount": 449.0,
+        "waiting_period": 30,
+        "coverage": [
+            "neonatal",
+            "hospital_partnership",
+            "physio"
+        ],
+        "insurer_rating": 0.87
+    },
+    {
+        "policy_id": 102,
+        "premium": 0.41,
+        "premium_amount": 410.0,
+        "waiting_period": 90,
+        "coverage": [
+            "ambulance",
+            "chiro",
+            "hospital",
+            "dental",
+            "cardiology",
+            "optical",
+            "maternity"
+        ],
+        "insurer_rating": 0.86
+    },
+    {
+        "policy_id": 103,
+        "premium": 0.895,
+        "premium_amount": 895.0,
+        "waiting_period": 0,
+        "coverage": [
+            "rehabilitation",
+            "hospital_partnership",
+            "chiro"
+        ],
+        "insurer_rating": 0.74
+    },
+    {
+        "policy_id": 104,
+        "premium": 0.789,
+        "premium_amount": 789.0,
+        "waiting_period": 30,
+        "coverage": [
+            "cardiology",
+            "maternity",
+            "hospital",
+            "chiro",
+            "neonatal",
+            "ambulance",
+            "mental_health",
+            "rehabilitation"
+        ],
+        "insurer_rating": 0.97
+    },
+    {
+        "policy_id": 105,
+        "premium": 0.864,
+        "premium_amount": 864.0,
+        "waiting_period": 30,
+        "coverage": [
+            "chiro",
+            "hospital",
+            "cardiology",
+            "optical",
+            "neonatal"
+        ],
+        "insurer_rating": 0.89
+    },
+    {
+        "policy_id": 106,
+        "premium": 0.752,
+        "premium_amount": 752.0,
+        "waiting_period": 14,
+        "coverage": [
+            "ambulance",
+            "hospital",
+            "chiro",
+            "optical",
+            "rehabilitation"
+        ],
+        "insurer_rating": 0.8
+    },
+    {
+        "policy_id": 107,
+        "premium": 0.277,
+        "premium_amount": 277.0,
+        "waiting_period": 30,
+        "coverage": [
+            "dental",
+            "hospital_partnership",
+            "maternity",
+            "rehabilitation",
+            "optical"
+        ],
+        "insurer_rating": 0.78
+    },
+    {
+        "policy_id": 108,
+        "premium": 0.767,
+        "premium_amount": 767.0,
+        "waiting_period": 14,
+        "coverage": [
+            "cardiology",
+            "mental_health",
+            "dental",
+            "hospital",
+            "neonatal",
+            "rehabilitation",
+            "hospital_partnership",
+            "ambulance"
+        ],
+        "insurer_rating": 0.73
+    },
+    {
+        "policy_id": 109,
+        "premium": 0.358,
+        "premium_amount": 358.0,
+        "waiting_period": 90,
+        "coverage": [
+            "hospital_partnership",
+            "cardiology",
+            "ambulance",
+            "rehabilitation",
+            "maternity",
+            "dental"
+        ],
+        "insurer_rating": 0.89
+    },
+    {
+        "policy_id": 110,
+        "premium": 0.464,
+        "premium_amount": 464.0,
+        "waiting_period": 30,
+        "coverage": [
+            "neonatal",
+            "physio",
+            "maternity",
+            "hospital",
+            "ambulance"
+        ],
+        "insurer_rating": 0.82
+    },
+    {
+        "policy_id": 111,
+        "premium": 0.62,
+        "premium_amount": 620.0,
+        "waiting_period": 14,
+        "coverage": [
+            "dental",
+            "hospital_partnership",
+            "ambulance",
+            "maternity",
+            "mental_health",
+            "neonatal"
+        ],
+        "insurer_rating": 0.93
+    },
+    {
+        "policy_id": 112,
+        "premium": 0.611,
+        "premium_amount": 611.0,
+        "waiting_period": 0,
+        "coverage": [
+            "ambulance",
+            "cardiology",
+            "dental",
+            "rehabilitation"
+        ],
+        "insurer_rating": 0.98
+    },
+    {
+        "policy_id": 113,
+        "premium": 0.527,
+        "premium_amount": 527.0,
+        "waiting_period": 0,
+        "coverage": [
+            "hospital_partnership",
+            "neonatal",
+            "mental_health",
+            "rehabilitation",
+            "physio",
+            "optical",
+            "chiro",
+            "maternity"
+        ],
+        "insurer_rating": 0.72
+    },
+    {
+        "policy_id": 114,
+        "premium": 0.621,
+        "premium_amount": 621.0,
+        "waiting_period": 180,
+        "coverage": [
+            "rehabilitation",
+            "hospital_partnership",
+            "maternity",
+            "cardiology",
+            "mental_health",
+            "chiro",
+            "neonatal",
+            "hospital"
+        ],
+        "insurer_rating": 0.88
+    },
+    {
+        "policy_id": 115,
+        "premium": 0.445,
+        "premium_amount": 445.0,
+        "waiting_period": 30,
+        "coverage": [
+            "optical",
+            "maternity",
+            "physio",
+            "hospital",
+            "rehabilitation",
+            "cardiology",
+            "dental",
+            "mental_health"
+        ],
+        "insurer_rating": 0.77
+    },
+    {
+        "policy_id": 116,
+        "premium": 0.792,
+        "premium_amount": 792.0,
+        "waiting_period": 180,
+        "coverage": [
+            "neonatal",
+            "maternity",
+            "chiro",
+            "cardiology",
+            "hospital_partnership",
+            "hospital",
+            "optical"
+        ],
+        "insurer_rating": 0.91
+    },
+    {
+        "policy_id": 117,
+        "premium": 0.142,
+        "premium_amount": 142.0,
+        "waiting_period": 14,
+        "coverage": [
+            "cardiology",
+            "hospital_partnership",
+            "rehabilitation",
+            "maternity",
+            "ambulance"
+        ],
+        "insurer_rating": 0.76
+    },
+    {
+        "policy_id": 118,
+        "premium": 0.917,
+        "premium_amount": 917.0,
+        "waiting_period": 0,
+        "coverage": [
+            "hospital",
+            "ambulance",
+            "physio",
+            "optical",
+            "cardiology",
+            "hospital_partnership",
+            "dental"
+        ],
+        "insurer_rating": 0.8
+    },
+    {
+        "policy_id": 119,
+        "premium": 0.392,
+        "premium_amount": 392.0,
+        "waiting_period": 30,
+        "coverage": [
+            "rehabilitation",
+            "neonatal",
+            "optical",
+            "physio"
+        ],
+        "insurer_rating": 0.71
+    },
+    {
+        "policy_id": 120,
+        "premium": 0.907,
+        "premium_amount": 907.0,
+        "waiting_period": 90,
+        "coverage": [
+            "neonatal",
+            "mental_health",
+            "rehabilitation"
+        ],
+        "insurer_rating": 0.82
+    },
+    {
+        "policy_id": 121,
+        "premium": 0.406,
+        "premium_amount": 406.0,
+        "waiting_period": 60,
+        "coverage": [
+            "dental",
+            "rehabilitation",
+            "hospital",
+            "hospital_partnership",
+            "mental_health"
+        ],
+        "insurer_rating": 0.75
+    },
+    {
+        "policy_id": 122,
+        "premium": 0.858,
+        "premium_amount": 858.0,
+        "waiting_period": 60,
+        "coverage": [
+            "optical",
+            "hospital",
+            "cardiology",
+            "dental",
+            "chiro",
+            "mental_health",
+            "neonatal"
+        ],
+        "insurer_rating": 0.85
+    },
+    {
+        "policy_id": 123,
+        "premium": 0.964,
+        "premium_amount": 964.0,
+        "waiting_period": 30,
+        "coverage": [
+            "neonatal",
+            "hospital",
+            "maternity",
+            "physio"
+        ],
+        "insurer_rating": 0.9
+    },
+    {
+        "policy_id": 124,
+        "premium": 0.379,
+        "premium_amount": 379.0,
+        "waiting_period": 0,
+        "coverage": [
+            "optical",
+            "hospital",
+            "maternity",
+            "dental",
+            "cardiology",
+            "ambulance",
+            "hospital_partnership"
+        ],
+        "insurer_rating": 0.92
+    },
+    {
+        "policy_id": 125,
+        "premium": 0.749,
+        "premium_amount": 749.0,
+        "waiting_period": 180,
+        "coverage": [
+            "ambulance",
+            "physio",
+            "mental_health"
+        ],
+        "insurer_rating": 0.86
+    },
+    {
+        "policy_id": 126,
+        "premium": 0.853,
+        "premium_amount": 853.0,
+        "waiting_period": 60,
+        "coverage": [
+            "optical",
+            "neonatal",
+            "hospital",
+            "hospital_partnership",
+            "chiro",
+            "mental_health",
+            "physio"
+        ],
+        "insurer_rating": 0.87
+    },
+    {
+        "policy_id": 127,
+        "premium": 0.576,
+        "premium_amount": 576.0,
+        "waiting_period": 180,
+        "coverage": [
+            "cardiology",
+            "hospital",
+            "hospital_partnership",
+            "neonatal"
+        ],
+        "insurer_rating": 0.85
+    },
+    {
+        "policy_id": 128,
+        "premium": 0.973,
+        "premium_amount": 973.0,
+        "waiting_period": 0,
+        "coverage": [
+            "optical",
+            "cardiology",
+            "physio",
+            "dental"
+        ],
+        "insurer_rating": 0.75
+    },
+    {
+        "policy_id": 129,
+        "premium": 0.964,
+        "premium_amount": 964.0,
+        "waiting_period": 14,
+        "coverage": [
+            "chiro",
+            "physio",
+            "maternity",
+            "dental"
+        ],
+        "insurer_rating": 0.93
+    },
+    {
+        "policy_id": 130,
+        "premium": 0.585,
+        "premium_amount": 585.0,
+        "waiting_period": 30,
+        "coverage": [
+            "hospital",
+            "hospital_partnership",
+            "chiro",
+            "neonatal",
+            "ambulance",
+            "rehabilitation"
+        ],
+        "insurer_rating": 0.95
+    },
+    {
+        "policy_id": 131,
+        "premium": 0.942,
+        "premium_amount": 942.0,
+        "waiting_period": 60,
+        "coverage": [
+            "optical",
+            "maternity",
+            "dental",
+            "cardiology"
+        ],
+        "insurer_rating": 0.88
+    },
+    {
+        "policy_id": 132,
+        "premium": 0.778,
+        "premium_amount": 778.0,
+        "waiting_period": 30,
+        "coverage": [
+            "mental_health",
+            "physio",
+            "neonatal",
+            "optical",
+            "chiro",
+            "hospital"
+        ],
+        "insurer_rating": 0.81
+    },
+    {
+        "policy_id": 133,
+        "premium": 0.223,
+        "premium_amount": 223.0,
+        "waiting_period": 0,
+        "coverage": [
+            "hospital",
+            "physio",
+            "optical",
+            "rehabilitation"
+        ],
+        "insurer_rating": 0.72
+    },
+    {
+        "policy_id": 134,
+        "premium": 0.313,
+        "premium_amount": 313.0,
+        "waiting_period": 90,
+        "coverage": [
+            "neonatal",
+            "ambulance",
+            "mental_health",
+            "maternity",
+            "hospital",
+            "physio"
+        ],
+        "insurer_rating": 0.88
+    },
+    {
+        "policy_id": 135,
+        "premium": 0.801,
+        "premium_amount": 801.0,
+        "waiting_period": 180,
+        "coverage": [
+            "rehabilitation",
+            "hospital",
+            "chiro",
+            "optical",
+            "dental"
+        ],
+        "insurer_rating": 0.93
+    },
+    {
+        "policy_id": 136,
+        "premium": 0.758,
+        "premium_amount": 758.0,
+        "waiting_period": 180,
+        "coverage": [
+            "cardiology",
+            "ambulance",
+            "physio",
+            "maternity"
+        ],
+        "insurer_rating": 0.76
+    },
+    {
+        "policy_id": 137,
+        "premium": 0.688,
+        "premium_amount": 688.0,
+        "waiting_period": 14,
+        "coverage": [
+            "physio",
+            "dental",
+            "maternity",
+            "hospital",
+            "chiro",
+            "mental_health"
+        ],
+        "insurer_rating": 0.97
+    },
+    {
+        "policy_id": 138,
+        "premium": 0.388,
+        "premium_amount": 388.0,
+        "waiting_period": 14,
+        "coverage": [
+            "rehabilitation",
+            "ambulance",
+            "optical",
+            "mental_health",
+            "maternity",
+            "neonatal",
+            "chiro"
+        ],
+        "insurer_rating": 0.77
+    },
+    {
+        "policy_id": 139,
+        "premium": 0.526,
+        "premium_amount": 526.0,
+        "waiting_period": 180,
+        "coverage": [
+            "hospital_partnership",
+            "neonatal",
+            "rehabilitation",
+            "optical"
+        ],
+        "insurer_rating": 0.77
+    },
+    {
+        "policy_id": 140,
+        "premium": 0.69,
+        "premium_amount": 690.0,
+        "waiting_period": 0,
+        "coverage": [
+            "optical",
+            "neonatal",
+            "physio",
+            "ambulance",
+            "maternity",
+            "hospital",
+            "hospital_partnership",
+            "rehabilitation"
+        ],
+        "insurer_rating": 0.81
+    },
+    {
+        "policy_id": 141,
+        "premium": 0.233,
+        "premium_amount": 233.0,
+        "waiting_period": 60,
+        "coverage": [
+            "physio",
+            "rehabilitation",
+            "hospital",
+            "hospital_partnership",
+            "maternity",
+            "ambulance"
+        ],
+        "insurer_rating": 0.91
+    },
+    {
+        "policy_id": 142,
+        "premium": 0.435,
+        "premium_amount": 435.0,
+        "waiting_period": 60,
+        "coverage": [
+            "maternity",
+            "physio",
+            "chiro",
+            "optical",
+            "hospital",
+            "rehabilitation"
+        ],
+        "insurer_rating": 0.97
+    },
+    {
+        "policy_id": 143,
+        "premium": 0.138,
+        "premium_amount": 138.0,
+        "waiting_period": 60,
+        "coverage": [
+            "hospital_partnership",
+            "maternity",
+            "physio",
+            "dental",
+            "optical",
+            "hospital",
+            "ambulance",
+            "cardiology"
+        ],
+        "insurer_rating": 0.86
+    },
+    {
+        "policy_id": 144,
+        "premium": 0.955,
+        "premium_amount": 955.0,
+        "waiting_period": 180,
+        "coverage": [
+            "rehabilitation",
+            "maternity",
+            "hospital",
+            "hospital_partnership",
+            "chiro"
+        ],
+        "insurer_rating": 0.78
+    },
+    {
+        "policy_id": 145,
+        "premium": 0.96,
+        "premium_amount": 960.0,
+        "waiting_period": 14,
+        "coverage": [
+            "dental",
+            "ambulance",
+            "hospital_partnership",
+            "chiro",
+            "cardiology",
+            "maternity",
+            "neonatal"
+        ],
+        "insurer_rating": 0.72
+    },
+    {
+        "policy_id": 146,
+        "premium": 0.208,
+        "premium_amount": 208.0,
+        "waiting_period": 90,
+        "coverage": [
+            "ambulance",
+            "cardiology",
+            "physio",
+            "neonatal",
+            "mental_health",
+            "rehabilitation",
+            "hospital_partnership",
+            "maternity"
+        ],
+        "insurer_rating": 0.86
+    },
+    {
+        "policy_id": 147,
+        "premium": 0.889,
+        "premium_amount": 889.0,
+        "waiting_period": 180,
+        "coverage": [
+            "physio",
+            "maternity",
+            "neonatal",
+            "chiro",
+            "dental",
+            "hospital_partnership"
+        ],
+        "insurer_rating": 0.86
+    },
+    {
+        "policy_id": 148,
+        "premium": 0.164,
+        "premium_amount": 164.0,
+        "waiting_period": 180,
+        "coverage": [
+            "neonatal",
+            "cardiology",
+            "mental_health",
+            "chiro",
+            "hospital_partnership",
+            "maternity",
+            "hospital"
+        ],
+        "insurer_rating": 0.89
+    },
+    {
+        "policy_id": 149,
+        "premium": 0.368,
+        "premium_amount": 368.0,
+        "waiting_period": 180,
+        "coverage": [
+            "chiro",
+            "rehabilitation",
+            "mental_health",
+            "neonatal",
+            "hospital_partnership",
+            "dental"
+        ],
+        "insurer_rating": 0.98
+    },
+    {
+        "policy_id": 150,
+        "premium": 0.285,
+        "premium_amount": 285.0,
+        "waiting_period": 180,
+        "coverage": [
+            "mental_health",
+            "hospital_partnership",
+            "physio",
+            "neonatal",
+            "cardiology"
+        ],
+        "insurer_rating": 0.94
+    },
+    {
+        "policy_id": 151,
+        "premium": 0.318,
+        "premium_amount": 318.0,
+        "waiting_period": 60,
+        "coverage": [
+            "hospital_partnership",
+            "neonatal",
+            "rehabilitation"
+        ],
+        "insurer_rating": 0.77
+    },
+    {
+        "policy_id": 152,
+        "premium": 0.5,
+        "premium_amount": 500.0,
+        "waiting_period": 90,
+        "coverage": [
+            "optical",
+            "chiro",
+            "neonatal",
+            "ambulance",
+            "hospital"
+        ],
+        "insurer_rating": 0.86
+    },
+    {
+        "policy_id": 153,
+        "premium": 0.929,
+        "premium_amount": 929.0,
+        "waiting_period": 30,
+        "coverage": [
+            "hospital_partnership",
+            "chiro",
+            "cardiology"
+        ],
+        "insurer_rating": 0.76
+    },
+    {
+        "policy_id": 154,
+        "premium": 0.13,
+        "premium_amount": 130.0,
+        "waiting_period": 14,
+        "coverage": [
+            "mental_health",
+            "ambulance",
+            "dental",
+            "hospital_partnership",
+            "hospital"
+        ],
+        "insurer_rating": 0.73
+    },
+    {
+        "policy_id": 155,
+        "premium": 0.316,
+        "premium_amount": 316.0,
+        "waiting_period": 30,
+        "coverage": [
+            "optical",
+            "dental",
+            "rehabilitation",
+            "ambulance"
+        ],
+        "insurer_rating": 0.85
+    },
+    {
+        "policy_id": 156,
+        "premium": 0.936,
+        "premium_amount": 936.0,
+        "waiting_period": 30,
+        "coverage": [
+            "physio",
+            "chiro",
+            "hospital"
+        ],
+        "insurer_rating": 0.9
+    },
+    {
+        "policy_id": 157,
+        "premium": 0.388,
+        "premium_amount": 388.0,
+        "waiting_period": 0,
+        "coverage": [
+            "neonatal",
+            "hospital_partnership",
+            "rehabilitation",
+            "physio",
+            "dental",
+            "cardiology"
+        ],
+        "insurer_rating": 0.87
+    },
+    {
+        "policy_id": 158,
+        "premium": 0.515,
+        "premium_amount": 515.0,
+        "waiting_period": 180,
+        "coverage": [
+            "mental_health",
+            "cardiology",
+            "dental",
+            "neonatal",
+            "physio"
+        ],
+        "insurer_rating": 0.88
+    },
+    {
+        "policy_id": 159,
+        "premium": 0.691,
+        "premium_amount": 691.0,
+        "waiting_period": 60,
+        "coverage": [
+            "ambulance",
+            "hospital_partnership",
+            "mental_health",
+            "cardiology",
+            "dental",
+            "chiro",
+            "neonatal",
+            "maternity"
+        ],
+        "insurer_rating": 0.93
+    },
+    {
+        "policy_id": 160,
+        "premium": 0.414,
+        "premium_amount": 414.0,
+        "waiting_period": 0,
+        "coverage": [
+            "ambulance",
+            "optical",
+            "chiro",
+            "maternity",
+            "hospital",
+            "dental",
+            "physio"
+        ],
+        "insurer_rating": 0.7
+    },
+    {
+        "policy_id": 161,
+        "premium": 0.719,
+        "premium_amount": 719.0,
+        "waiting_period": 90,
+        "coverage": [
+            "optical",
+            "neonatal",
+            "rehabilitation",
+            "physio",
+            "cardiology"
+        ],
+        "insurer_rating": 0.91
+    },
+    {
+        "policy_id": 162,
+        "premium": 0.337,
+        "premium_amount": 337.0,
+        "waiting_period": 60,
+        "coverage": [
+            "chiro",
+            "physio",
+            "rehabilitation",
+            "neonatal",
+            "dental",
+            "hospital_partnership"
+        ],
+        "insurer_rating": 0.88
+    },
+    {
+        "policy_id": 163,
+        "premium": 0.95,
+        "premium_amount": 950.0,
+        "waiting_period": 90,
+        "coverage": [
+            "mental_health",
+            "rehabilitation",
+            "hospital",
+            "physio",
+            "ambulance",
+            "hospital_partnership",
+            "chiro"
+        ],
+        "insurer_rating": 0.75
+    },
+    {
+        "policy_id": 164,
+        "premium": 0.212,
+        "premium_amount": 212.0,
+        "waiting_period": 30,
+        "coverage": [
+            "mental_health",
+            "optical",
+            "rehabilitation",
+            "neonatal",
+            "chiro",
+            "hospital",
+            "ambulance",
+            "physio"
+        ],
+        "insurer_rating": 0.85
+    },
+    {
+        "policy_id": 165,
+        "premium": 0.866,
+        "premium_amount": 866.0,
+        "waiting_period": 60,
+        "coverage": [
+            "dental",
+            "ambulance",
+            "hospital",
+            "mental_health",
+            "hospital_partnership"
+        ],
+        "insurer_rating": 0.76
+    },
+    {
+        "policy_id": 166,
+        "premium": 0.517,
+        "premium_amount": 517.0,
+        "waiting_period": 60,
+        "coverage": [
+            "physio",
+            "rehabilitation",
+            "ambulance",
+            "cardiology",
+            "dental",
+            "maternity",
+            "hospital_partnership"
+        ],
+        "insurer_rating": 0.74
+    },
+    {
+        "policy_id": 167,
+        "premium": 0.833,
+        "premium_amount": 833.0,
+        "waiting_period": 0,
+        "coverage": [
+            "optical",
+            "dental",
+            "cardiology",
+            "ambulance",
+            "maternity",
+            "hospital",
+            "chiro",
+            "physio"
+        ],
+        "insurer_rating": 0.94
+    },
+    {
+        "policy_id": 168,
+        "premium": 0.774,
+        "premium_amount": 774.0,
+        "waiting_period": 30,
+        "coverage": [
+            "ambulance",
+            "hospital",
+            "hospital_partnership",
+            "mental_health",
+            "optical",
+            "cardiology",
+            "rehabilitation",
+            "chiro"
+        ],
+        "insurer_rating": 0.94
+    },
+    {
+        "policy_id": 169,
+        "premium": 0.659,
+        "premium_amount": 659.0,
+        "waiting_period": 60,
+        "coverage": [
+            "mental_health",
+            "cardiology",
+            "optical",
+            "dental",
+            "maternity"
+        ],
+        "insurer_rating": 0.83
+    },
+    {
+        "policy_id": 170,
+        "premium": 0.997,
+        "premium_amount": 997.0,
+        "waiting_period": 30,
+        "coverage": [
+            "neonatal",
+            "maternity",
+            "ambulance",
+            "dental"
+        ],
+        "insurer_rating": 0.98
+    },
+    {
+        "policy_id": 171,
+        "premium": 0.824,
+        "premium_amount": 824.0,
+        "waiting_period": 90,
+        "coverage": [
+            "optical",
+            "dental",
+            "hospital",
+            "hospital_partnership",
+            "mental_health",
+            "maternity"
+        ],
+        "insurer_rating": 0.89
+    },
+    {
+        "policy_id": 172,
+        "premium": 0.191,
+        "premium_amount": 191.0,
+        "waiting_period": 90,
+        "coverage": [
+            "maternity",
+            "hospital",
+            "dental",
+            "cardiology"
+        ],
+        "insurer_rating": 0.8
+    },
+    {
+        "policy_id": 173,
+        "premium": 0.695,
+        "premium_amount": 695.0,
+        "waiting_period": 90,
+        "coverage": [
+            "maternity",
+            "chiro",
+            "ambulance",
+            "physio",
+            "mental_health",
+            "cardiology",
+            "rehabilitation"
+        ],
+        "insurer_rating": 0.97
+    },
+    {
+        "policy_id": 174,
+        "premium": 0.813,
+        "premium_amount": 813.0,
+        "waiting_period": 60,
+        "coverage": [
+            "hospital_partnership",
+            "chiro",
+            "mental_health"
+        ],
+        "insurer_rating": 0.96
+    },
+    {
+        "policy_id": 175,
+        "premium": 0.891,
+        "premium_amount": 891.0,
+        "waiting_period": 90,
+        "coverage": [
+            "hospital_partnership",
+            "mental_health",
+            "chiro",
+            "maternity",
+            "ambulance",
+            "hospital",
+            "rehabilitation"
+        ],
+        "insurer_rating": 0.83
+    },
+    {
+        "policy_id": 176,
+        "premium": 0.492,
+        "premium_amount": 492.0,
+        "waiting_period": 180,
+        "coverage": [
+            "cardiology",
+            "dental",
+            "neonatal",
+            "maternity",
+            "mental_health",
+            "chiro",
+            "physio"
+        ],
+        "insurer_rating": 0.81
+    },
+    {
+        "policy_id": 177,
+        "premium": 0.77,
+        "premium_amount": 770.0,
+        "waiting_period": 0,
+        "coverage": [
+            "maternity",
+            "ambulance",
+            "rehabilitation"
+        ],
+        "insurer_rating": 0.82
+    },
+    {
+        "policy_id": 178,
+        "premium": 0.996,
+        "premium_amount": 996.0,
+        "waiting_period": 0,
+        "coverage": [
+            "chiro",
+            "hospital_partnership",
+            "physio",
+            "mental_health",
+            "optical",
+            "maternity",
+            "rehabilitation",
+            "neonatal"
+        ],
+        "insurer_rating": 0.7
+    },
+    {
+        "policy_id": 179,
+        "premium": 0.465,
+        "premium_amount": 465.0,
+        "waiting_period": 180,
+        "coverage": [
+            "dental",
+            "hospital_partnership",
+            "cardiology"
+        ],
+        "insurer_rating": 0.98
+    },
+    {
+        "policy_id": 180,
+        "premium": 0.619,
+        "premium_amount": 619.0,
+        "waiting_period": 180,
+        "coverage": [
+            "physio",
+            "optical",
+            "ambulance",
+            "rehabilitation",
+            "dental",
+            "hospital"
+        ],
+        "insurer_rating": 0.78
+    },
+    {
+        "policy_id": 181,
+        "premium": 0.985,
+        "premium_amount": 985.0,
+        "waiting_period": 30,
+        "coverage": [
+            "ambulance",
+            "optical",
+            "mental_health",
+            "dental"
+        ],
+        "insurer_rating": 0.9
+    },
+    {
+        "policy_id": 182,
+        "premium": 0.176,
+        "premium_amount": 176.0,
+        "waiting_period": 180,
+        "coverage": [
+            "physio",
+            "ambulance",
+            "rehabilitation",
+            "optical",
+            "hospital",
+            "mental_health",
+            "chiro"
+        ],
+        "insurer_rating": 0.88
+    },
+    {
+        "policy_id": 183,
+        "premium": 0.398,
+        "premium_amount": 398.0,
+        "waiting_period": 60,
+        "coverage": [
+            "chiro",
+            "hospital",
+            "mental_health",
+            "ambulance",
+            "cardiology"
+        ],
+        "insurer_rating": 0.96
+    },
+    {
+        "policy_id": 184,
+        "premium": 0.918,
+        "premium_amount": 918.0,
+        "waiting_period": 180,
+        "coverage": [
+            "ambulance",
+            "maternity",
+            "optical",
+            "chiro",
+            "hospital"
+        ],
+        "insurer_rating": 0.75
+    },
+    {
+        "policy_id": 185,
+        "premium": 0.94,
+        "premium_amount": 940.0,
+        "waiting_period": 60,
+        "coverage": [
+            "chiro",
+            "neonatal",
+            "dental",
+            "maternity"
+        ],
+        "insurer_rating": 0.96
+    },
+    {
+        "policy_id": 186,
+        "premium": 0.761,
+        "premium_amount": 761.0,
+        "waiting_period": 14,
+        "coverage": [
+            "optical",
+            "chiro",
+            "cardiology",
+            "hospital",
+            "neonatal",
+            "rehabilitation",
+            "maternity"
+        ],
+        "insurer_rating": 0.74
+    },
+    {
+        "policy_id": 187,
+        "premium": 0.986,
+        "premium_amount": 986.0,
+        "waiting_period": 90,
+        "coverage": [
+            "ambulance",
+            "hospital",
+            "maternity",
+            "dental",
+            "mental_health",
+            "cardiology"
+        ],
+        "insurer_rating": 0.97
+    },
+    {
+        "policy_id": 188,
+        "premium": 0.331,
+        "premium_amount": 331.0,
+        "waiting_period": 180,
+        "coverage": [
+            "neonatal",
+            "ambulance",
+            "hospital_partnership",
+            "dental",
+            "cardiology"
+        ],
+        "insurer_rating": 0.81
+    },
+    {
+        "policy_id": 189,
+        "premium": 0.339,
+        "premium_amount": 339.0,
+        "waiting_period": 14,
+        "coverage": [
+            "hospital_partnership",
+            "ambulance",
+            "mental_health",
+            "physio"
+        ],
+        "insurer_rating": 0.87
+    },
+    {
+        "policy_id": 190,
+        "premium": 0.46,
+        "premium_amount": 460.0,
+        "waiting_period": 90,
+        "coverage": [
+            "chiro",
+            "hospital_partnership",
+            "mental_health",
+            "physio",
+            "rehabilitation"
+        ],
+        "insurer_rating": 0.78
+    },
+    {
+        "policy_id": 191,
+        "premium": 0.976,
+        "premium_amount": 976.0,
+        "waiting_period": 30,
+        "coverage": [
+            "cardiology",
+            "rehabilitation",
+            "neonatal",
+            "mental_health",
+            "physio",
+            "hospital_partnership",
+            "optical",
+            "dental"
+        ],
+        "insurer_rating": 0.93
+    },
+    {
+        "policy_id": 192,
+        "premium": 0.181,
+        "premium_amount": 181.0,
+        "waiting_period": 14,
+        "coverage": [
+            "maternity",
+            "dental",
+            "cardiology"
+        ],
+        "insurer_rating": 0.8
+    },
+    {
+        "policy_id": 193,
+        "premium": 0.904,
+        "premium_amount": 904.0,
+        "waiting_period": 14,
+        "coverage": [
+            "rehabilitation",
+            "neonatal",
+            "hospital_partnership",
+            "hospital",
+            "dental",
+            "ambulance"
+        ],
+        "insurer_rating": 0.97
+    },
+    {
+        "policy_id": 194,
+        "premium": 0.613,
+        "premium_amount": 613.0,
+        "waiting_period": 30,
+        "coverage": [
+            "rehabilitation",
+            "maternity",
+            "cardiology",
+            "hospital"
+        ],
+        "insurer_rating": 0.93
+    },
+    {
+        "policy_id": 195,
+        "premium": 0.453,
+        "premium_amount": 453.0,
+        "waiting_period": 180,
+        "coverage": [
+            "chiro",
+            "hospital_partnership",
+            "neonatal",
+            "optical",
+            "cardiology",
+            "dental",
+            "hospital",
+            "maternity"
+        ],
+        "insurer_rating": 0.76
+    },
+    {
+        "policy_id": 196,
+        "premium": 0.429,
+        "premium_amount": 429.0,
+        "waiting_period": 14,
+        "coverage": [
+            "chiro",
+            "mental_health",
+            "rehabilitation"
+        ],
+        "insurer_rating": 0.78
+    },
+    {
+        "policy_id": 197,
+        "premium": 0.541,
+        "premium_amount": 541.0,
+        "waiting_period": 14,
+        "coverage": [
+            "neonatal",
+            "optical",
+            "cardiology",
+            "physio",
+            "rehabilitation"
+        ],
+        "insurer_rating": 0.83
+    },
+    {
+        "policy_id": 198,
+        "premium": 0.876,
+        "premium_amount": 876.0,
+        "waiting_period": 0,
+        "coverage": [
+            "hospital_partnership",
+            "maternity",
+            "rehabilitation"
+        ],
+        "insurer_rating": 0.95
+    },
+    {
+        "policy_id": 199,
+        "premium": 0.5,
+        "premium_amount": 500.0,
+        "waiting_period": 0,
+        "coverage": [
+            "dental",
+            "hospital_partnership",
+            "physio",
+            "chiro",
+            "rehabilitation"
+        ],
+        "insurer_rating": 0.94
+    }
+]

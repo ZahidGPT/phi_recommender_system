@@ -1,0 +1,3642 @@
+[
+    {
+        "user_id": 0,
+        "policy_id": 172,
+        "rating": 0.6549432396467125
+    },
+    {
+        "user_id": 0,
+        "policy_id": 91,
+        "rating": 0.9297972297648597
+    },
+    {
+        "user_id": 0,
+        "policy_id": 107,
+        "rating": 0.22433510246908797
+    },
+    {
+        "user_id": 0,
+        "policy_id": 117,
+        "rating": 0.7046340704923858
+    },
+    {
+        "user_id": 0,
+        "policy_id": 83,
+        "rating": 0.38251595935168836
+    },
+    {
+        "user_id": 0,
+        "policy_id": 141,
+        "rating": 0.7100298716695292
+    },
+    {
+        "user_id": 0,
+        "policy_id": 7,
+        "rating": 0.16325347177300936
+    },
+    {
+        "user_id": 0,
+        "policy_id": 34,
+        "rating": 0.17340920360359763
+    },
+    {
+        "user_id": 0,
+        "policy_id": 192,
+        "rating": 0.4306102201440941
+    },
+    {
+        "user_id": 1,
+        "policy_id": 8,
+        "rating": 0.6690303945014512
+    },
+    {
+        "user_id": 1,
+        "policy_id": 16,
+        "rating": 0.9604351209548231
+    },
+    {
+        "user_id": 1,
+        "policy_id": 133,
+        "rating": 0.1304296015713641
+    },
+    {
+        "user_id": 1,
+        "policy_id": 179,
+        "rating": 0.6222863247151182
+    },
+    {
+        "user_id": 1,
+        "policy_id": 158,
+        "rating": 0.30926404865281976
+    },
+    {
+        "user_id": 1,
+        "policy_id": 122,
+        "rating": 0.4371112830591243
+    },
+    {
+        "user_id": 1,
+        "policy_id": 20,
+        "rating": 0.7973085014818038
+    },
+    {
+        "user_id": 1,
+        "policy_id": 70,
+        "rating": 0.8306908784914804
+    },
+    {
+        "user_id": 2,
+        "policy_id": 154,
+        "rating": 0.7503671469287774
+    },
+    {
+        "user_id": 2,
+        "policy_id": 79,
+        "rating": 0.9631744517359793
+    },
+    {
+        "user_id": 2,
+        "policy_id": 179,
+        "rating": 0.6304131560061813
+    },
+    {
+        "user_id": 2,
+        "policy_id": 27,
+        "rating": 0.6350209828057515
+    },
+    {
+        "user_id": 2,
+        "policy_id": 60,
+        "rating": 0.7670513559244124
+    },
+    {
+        "user_id": 2,
+        "policy_id": 182,
+        "rating": 0.7348037860076276
+    },
+    {
+        "user_id": 3,
+        "policy_id": 194,
+        "rating": 0.6681581146281333
+    },
+    {
+        "user_id": 3,
+        "policy_id": 148,
+        "rating": 0.6748731244614314
+    },
+    {
+        "user_id": 3,
+        "policy_id": 83,
+        "rating": 0.45461351615852885
+    },
+    {
+        "user_id": 3,
+        "policy_id": 9,
+        "rating": 0.8378368510779063
+    },
+    {
+        "user_id": 3,
+        "policy_id": 20,
+        "rating": 0.6085483883700692
+    },
+    {
+        "user_id": 3,
+        "policy_id": 111,
+        "rating": 0.12418930355849725
+    },
+    {
+        "user_id": 3,
+        "policy_id": 136,
+        "rating": 0.7533273103468884
+    },
+    {
+        "user_id": 3,
+        "policy_id": 31,
+        "rating": 0.6280672862098484
+    },
+    {
+        "user_id": 4,
+        "policy_id": 91,
+        "rating": 0.66419995659563
+    },
+    {
+        "user_id": 4,
+        "policy_id": 4,
+        "rating": 0.7510340126746424
+    },
+    {
+        "user_id": 4,
+        "policy_id": 172,
+        "rating": 0.6229974419265345
+    },
+    {
+        "user_id": 4,
+        "policy_id": 117,
+        "rating": 0.6133510646035419
+    },
+    {
+        "user_id": 4,
+        "policy_id": 148,
+        "rating": 0.9894578145403061
+    },
+    {
+        "user_id": 4,
+        "policy_id": 3,
+        "rating": 0.7516422896288275
+    },
+    {
+        "user_id": 5,
+        "policy_id": 40,
+        "rating": 0.8222582989955618
+    },
+    {
+        "user_id": 5,
+        "policy_id": 141,
+        "rating": 0.9052970200888947
+    },
+    {
+        "user_id": 5,
+        "policy_id": 7,
+        "rating": 0.8259184008979312
+    },
+    {
+        "user_id": 5,
+        "policy_id": 20,
+        "rating": 0.13371726330481817
+    },
+    {
+        "user_id": 5,
+        "policy_id": 10,
+        "rating": 0.9120932883632411
+    },
+    {
+        "user_id": 5,
+        "policy_id": 148,
+        "rating": 0.8379483659269007
+    },
+    {
+        "user_id": 5,
+        "policy_id": 146,
+        "rating": 0.7344473975926549
+    },
+    {
+        "user_id": 5,
+        "policy_id": 117,
+        "rating": 0.9336449275213944
+    },
+    {
+        "user_id": 6,
+        "policy_id": 80,
+        "rating": 0.7102838647721187
+    },
+    {
+        "user_id": 6,
+        "policy_id": 76,
+        "rating": 0.6956864389695524
+    },
+    {
+        "user_id": 6,
+        "policy_id": 169,
+        "rating": 0.8561486147015682
+    },
+    {
+        "user_id": 6,
+        "policy_id": 71,
+        "rating": 0.9826822289796099
+    },
+    {
+        "user_id": 6,
+        "policy_id": 78,
+        "rating": 0.847432947798071
+    },
+    {
+        "user_id": 6,
+        "policy_id": 137,
+        "rating": 0.9644865813245351
+    },
+    {
+        "user_id": 6,
+        "policy_id": 109,
+        "rating": 0.8119130550298082
+    },
+    {
+        "user_id": 7,
+        "policy_id": 4,
+        "rating": 0.6894654005765659
+    },
+    {
+        "user_id": 7,
+        "policy_id": 74,
+        "rating": 0.6557097808759931
+    },
+    {
+        "user_id": 7,
+        "policy_id": 23,
+        "rating": 0.8350467992327375
+    },
+    {
+        "user_id": 7,
+        "policy_id": 68,
+        "rating": 0.6549599795262303
+    },
+    {
+        "user_id": 7,
+        "policy_id": 10,
+        "rating": 0.7786567390925977
+    },
+    {
+        "user_id": 8,
+        "policy_id": 27,
+        "rating": 0.922241891875301
+    },
+    {
+        "user_id": 8,
+        "policy_id": 110,
+        "rating": 0.6040894882793134
+    },
+    {
+        "user_id": 8,
+        "policy_id": 176,
+        "rating": 0.9783136370502937
+    },
+    {
+        "user_id": 8,
+        "policy_id": 4,
+        "rating": 0.6127678069390906
+    },
+    {
+        "user_id": 8,
+        "policy_id": 51,
+        "rating": 0.6221722982293681
+    },
+    {
+        "user_id": 8,
+        "policy_id": 140,
+        "rating": 0.6148735865497382
+    },
+    {
+        "user_id": 8,
+        "policy_id": 124,
+        "rating": 0.7851454671533722
+    },
+    {
+        "user_id": 8,
+        "policy_id": 78,
+        "rating": 0.8187392311847819
+    },
+    {
+        "user_id": 8,
+        "policy_id": 146,
+        "rating": 0.793677480088373
+    },
+    {
+        "user_id": 8,
+        "policy_id": 113,
+        "rating": 0.6528546018818585
+    },
+    {
+        "user_id": 9,
+        "policy_id": 10,
+        "rating": 0.7152978935797328
+    },
+    {
+        "user_id": 9,
+        "policy_id": 117,
+        "rating": 0.9300952398549808
+    },
+    {
+        "user_id": 9,
+        "policy_id": 91,
+        "rating": 0.8430208817200691
+    },
+    {
+        "user_id": 9,
+        "policy_id": 143,
+        "rating": 0.8791300695438475
+    },
+    {
+        "user_id": 10,
+        "policy_id": 172,
+        "rating": 0.6372647829044252
+    },
+    {
+        "user_id": 10,
+        "policy_id": 91,
+        "rating": 0.6599747577432746
+    },
+    {
+        "user_id": 10,
+        "policy_id": 143,
+        "rating": 0.6449144858517847
+    },
+    {
+        "user_id": 10,
+        "policy_id": 117,
+        "rating": 0.3554483908170589
+    },
+    {
+        "user_id": 10,
+        "policy_id": 27,
+        "rating": 0.38526349531372317
+    },
+    {
+        "user_id": 10,
+        "policy_id": 192,
+        "rating": 0.7805898728973465
+    },
+    {
+        "user_id": 10,
+        "policy_id": 3,
+        "rating": 0.9812234175839966
+    },
+    {
+        "user_id": 10,
+        "policy_id": 10,
+        "rating": 0.988366158412767
+    },
+    {
+        "user_id": 10,
+        "policy_id": 141,
+        "rating": 0.8622947780256627
+    },
+    {
+        "user_id": 11,
+        "policy_id": 96,
+        "rating": 0.1434418747947194
+    },
+    {
+        "user_id": 11,
+        "policy_id": 142,
+        "rating": 0.6541225037738484
+    },
+    {
+        "user_id": 11,
+        "policy_id": 88,
+        "rating": 0.8959595336257897
+    },
+    {
+        "user_id": 11,
+        "policy_id": 116,
+        "rating": 0.9495265313906648
+    },
+    {
+        "user_id": 11,
+        "policy_id": 27,
+        "rating": 0.20278701526521542
+    },
+    {
+        "user_id": 11,
+        "policy_id": 169,
+        "rating": 0.7205562790302743
+    },
+    {
+        "user_id": 12,
+        "policy_id": 10,
+        "rating": 0.9015043555564235
+    },
+    {
+        "user_id": 12,
+        "policy_id": 91,
+        "rating": 0.46597680389526375
+    },
+    {
+        "user_id": 13,
+        "policy_id": 112,
+        "rating": 0.3541270797106101
+    },
+    {
+        "user_id": 13,
+        "policy_id": 37,
+        "rating": 0.311655913969041
+    },
+    {
+        "user_id": 13,
+        "policy_id": 199,
+        "rating": 0.20307777500586233
+    },
+    {
+        "user_id": 13,
+        "policy_id": 21,
+        "rating": 0.6142715486325027
+    },
+    {
+        "user_id": 13,
+        "policy_id": 44,
+        "rating": 0.9776223246565561
+    },
+    {
+        "user_id": 14,
+        "policy_id": 102,
+        "rating": 0.2129763777559505
+    },
+    {
+        "user_id": 14,
+        "policy_id": 73,
+        "rating": 0.7713487430455814
+    },
+    {
+        "user_id": 14,
+        "policy_id": 101,
+        "rating": 0.39310350764947855
+    },
+    {
+        "user_id": 14,
+        "policy_id": 117,
+        "rating": 0.6089084818357242
+    },
+    {
+        "user_id": 14,
+        "policy_id": 20,
+        "rating": 0.8958224069003695
+    },
+    {
+        "user_id": 14,
+        "policy_id": 90,
+        "rating": 0.968235280362556
+    },
+    {
+        "user_id": 14,
+        "policy_id": 7,
+        "rating": 0.8320593861618493
+    },
+    {
+        "user_id": 14,
+        "policy_id": 63,
+        "rating": 0.8562576145024271
+    },
+    {
+        "user_id": 14,
+        "policy_id": 160,
+        "rating": 0.7905839124110883
+    },
+    {
+        "user_id": 15,
+        "policy_id": 172,
+        "rating": 0.9019652235591449
+    },
+    {
+        "user_id": 15,
+        "policy_id": 182,
+        "rating": 0.6489074279645823
+    },
+    {
+        "user_id": 15,
+        "policy_id": 100,
+        "rating": 0.7199996039527804
+    },
+    {
+        "user_id": 15,
+        "policy_id": 10,
+        "rating": 0.9241644680518156
+    },
+    {
+        "user_id": 15,
+        "policy_id": 148,
+        "rating": 0.7640815589550767
+    },
+    {
+        "user_id": 15,
+        "policy_id": 66,
+        "rating": 0.8359511978330256
+    },
+    {
+        "user_id": 15,
+        "policy_id": 40,
+        "rating": 0.8921435288757387
+    },
+    {
+        "user_id": 15,
+        "policy_id": 23,
+        "rating": 0.716292857077671
+    },
+    {
+        "user_id": 15,
+        "policy_id": 107,
+        "rating": 0.4588228200383394
+    },
+    {
+        "user_id": 16,
+        "policy_id": 26,
+        "rating": 0.8224818015017522
+    },
+    {
+        "user_id": 16,
+        "policy_id": 109,
+        "rating": 0.9011329938046483
+    },
+    {
+        "user_id": 16,
+        "policy_id": 7,
+        "rating": 0.4650153490793233
+    },
+    {
+        "user_id": 16,
+        "policy_id": 3,
+        "rating": 0.6620288265905755
+    },
+    {
+        "user_id": 16,
+        "policy_id": 20,
+        "rating": 0.9389282920668517
+    },
+    {
+        "user_id": 17,
+        "policy_id": 133,
+        "rating": 0.7787166045238114
+    },
+    {
+        "user_id": 17,
+        "policy_id": 182,
+        "rating": 0.9362225509006986
+    },
+    {
+        "user_id": 17,
+        "policy_id": 4,
+        "rating": 0.34116084429559845
+    },
+    {
+        "user_id": 17,
+        "policy_id": 84,
+        "rating": 0.9640597526732999
+    },
+    {
+        "user_id": 17,
+        "policy_id": 66,
+        "rating": 0.9786247452325909
+    },
+    {
+        "user_id": 17,
+        "policy_id": 10,
+        "rating": 0.8667025982659552
+    },
+    {
+        "user_id": 17,
+        "policy_id": 76,
+        "rating": 0.22807322254632909
+    },
+    {
+        "user_id": 17,
+        "policy_id": 16,
+        "rating": 0.8034452536746433
+    },
+    {
+        "user_id": 18,
+        "policy_id": 84,
+        "rating": 0.9187814148998333
+    },
+    {
+        "user_id": 18,
+        "policy_id": 39,
+        "rating": 0.9630904965927589
+    },
+    {
+        "user_id": 18,
+        "policy_id": 133,
+        "rating": 0.6879540775810408
+    },
+    {
+        "user_id": 18,
+        "policy_id": 182,
+        "rating": 0.9630267474059108
+    },
+    {
+        "user_id": 18,
+        "policy_id": 63,
+        "rating": 0.3500055000416641
+    },
+    {
+        "user_id": 18,
+        "policy_id": 34,
+        "rating": 0.7203432913393994
+    },
+    {
+        "user_id": 18,
+        "policy_id": 20,
+        "rating": 0.8078265628783973
+    },
+    {
+        "user_id": 18,
+        "policy_id": 76,
+        "rating": 0.8796412282705213
+    },
+    {
+        "user_id": 18,
+        "policy_id": 66,
+        "rating": 0.9901341407816695
+    },
+    {
+        "user_id": 20,
+        "policy_id": 195,
+        "rating": 0.780048843282167
+    },
+    {
+        "user_id": 20,
+        "policy_id": 29,
+        "rating": 0.7257809993122276
+    },
+    {
+        "user_id": 20,
+        "policy_id": 94,
+        "rating": 0.7631838331336616
+    },
+    {
+        "user_id": 20,
+        "policy_id": 110,
+        "rating": 0.13199054351659317
+    },
+    {
+        "user_id": 20,
+        "policy_id": 115,
+        "rating": 0.7112629066904528
+    },
+    {
+        "user_id": 20,
+        "policy_id": 4,
+        "rating": 0.8322692283585957
+    },
+    {
+        "user_id": 20,
+        "policy_id": 26,
+        "rating": 0.40292008880616426
+    },
+    {
+        "user_id": 20,
+        "policy_id": 27,
+        "rating": 0.7646859226250082
+    },
+    {
+        "user_id": 20,
+        "policy_id": 28,
+        "rating": 0.7836122767281013
+    },
+    {
+        "user_id": 21,
+        "policy_id": 80,
+        "rating": 0.8289895990034128
+    },
+    {
+        "user_id": 21,
+        "policy_id": 158,
+        "rating": 0.4192090444106431
+    },
+    {
+        "user_id": 21,
+        "policy_id": 101,
+        "rating": 0.2313279128170459
+    },
+    {
+        "user_id": 21,
+        "policy_id": 124,
+        "rating": 0.8053037849392667
+    },
+    {
+        "user_id": 21,
+        "policy_id": 79,
+        "rating": 0.33451019882341093
+    },
+    {
+        "user_id": 21,
+        "policy_id": 111,
+        "rating": 0.6892476671028286
+    },
+    {
+        "user_id": 21,
+        "policy_id": 173,
+        "rating": 0.9254066474509389
+    },
+    {
+        "user_id": 21,
+        "policy_id": 83,
+        "rating": 0.6658354549515044
+    },
+    {
+        "user_id": 21,
+        "policy_id": 91,
+        "rating": 0.8583858988171575
+    },
+    {
+        "user_id": 22,
+        "policy_id": 134,
+        "rating": 0.10587137077645009
+    },
+    {
+        "user_id": 22,
+        "policy_id": 109,
+        "rating": 0.29933030537807737
+    },
+    {
+        "user_id": 22,
+        "policy_id": 27,
+        "rating": 0.7915793812330315
+    },
+    {
+        "user_id": 22,
+        "policy_id": 31,
+        "rating": 0.6140239450104272
+    },
+    {
+        "user_id": 22,
+        "policy_id": 83,
+        "rating": 0.9468766797371373
+    },
+    {
+        "user_id": 22,
+        "policy_id": 148,
+        "rating": 0.6930144344993843
+    },
+    {
+        "user_id": 22,
+        "policy_id": 117,
+        "rating": 0.2789543197605764
+    },
+    {
+        "user_id": 23,
+        "policy_id": 94,
+        "rating": 0.9527117964982967
+    },
+    {
+        "user_id": 23,
+        "policy_id": 176,
+        "rating": 0.6715108294527803
+    },
+    {
+        "user_id": 23,
+        "policy_id": 146,
+        "rating": 0.6299362455021672
+    },
+    {
+        "user_id": 23,
+        "policy_id": 7,
+        "rating": 0.7263907126887246
+    },
+    {
+        "user_id": 23,
+        "policy_id": 99,
+        "rating": 0.8279163961172857
+    },
+    {
+        "user_id": 23,
+        "policy_id": 46,
+        "rating": 0.1421929225762517
+    },
+    {
+        "user_id": 23,
+        "policy_id": 85,
+        "rating": 0.7620035104938208
+    },
+    {
+        "user_id": 23,
+        "policy_id": 82,
+        "rating": 0.9217712624308632
+    },
+    {
+        "user_id": 24,
+        "policy_id": 143,
+        "rating": 0.9977875894662408
+    },
+    {
+        "user_id": 24,
+        "policy_id": 84,
+        "rating": 0.9111284070226024
+    },
+    {
+        "user_id": 24,
+        "policy_id": 10,
+        "rating": 0.8901551939381028
+    },
+    {
+        "user_id": 24,
+        "policy_id": 63,
+        "rating": 0.8125686850004101
+    },
+    {
+        "user_id": 24,
+        "policy_id": 91,
+        "rating": 0.4877400545702665
+    },
+    {
+        "user_id": 24,
+        "policy_id": 154,
+        "rating": 0.19956605721583243
+    },
+    {
+        "user_id": 24,
+        "policy_id": 117,
+        "rating": 0.7966836964725827
+    },
+    {
+        "user_id": 25,
+        "policy_id": 160,
+        "rating": 0.9897946807846105
+    },
+    {
+        "user_id": 25,
+        "policy_id": 26,
+        "rating": 0.9311635832445926
+    },
+    {
+        "user_id": 25,
+        "policy_id": 176,
+        "rating": 0.7237161110063088
+    },
+    {
+        "user_id": 25,
+        "policy_id": 141,
+        "rating": 0.8261463505819427
+    },
+    {
+        "user_id": 25,
+        "policy_id": 76,
+        "rating": 0.635521333792981
+    },
+    {
+        "user_id": 25,
+        "policy_id": 124,
+        "rating": 0.628888386552085
+    },
+    {
+        "user_id": 25,
+        "policy_id": 110,
+        "rating": 0.7713659410641206
+    },
+    {
+        "user_id": 26,
+        "policy_id": 60,
+        "rating": 0.9196633027574841
+    },
+    {
+        "user_id": 26,
+        "policy_id": 67,
+        "rating": 0.898289785652739
+    },
+    {
+        "user_id": 26,
+        "policy_id": 79,
+        "rating": 0.6403550747782993
+    },
+    {
+        "user_id": 26,
+        "policy_id": 20,
+        "rating": 0.9038231414870697
+    },
+    {
+        "user_id": 26,
+        "policy_id": 121,
+        "rating": 0.6803134466253269
+    },
+    {
+        "user_id": 27,
+        "policy_id": 91,
+        "rating": 0.8993076906500496
+    },
+    {
+        "user_id": 27,
+        "policy_id": 192,
+        "rating": 0.6055571435263012
+    },
+    {
+        "user_id": 27,
+        "policy_id": 172,
+        "rating": 0.317900440358046
+    },
+    {
+        "user_id": 27,
+        "policy_id": 7,
+        "rating": 0.7570550298361929
+    },
+    {
+        "user_id": 27,
+        "policy_id": 66,
+        "rating": 0.9907028192460757
+    },
+    {
+        "user_id": 27,
+        "policy_id": 182,
+        "rating": 0.6107613225598262
+    },
+    {
+        "user_id": 27,
+        "policy_id": 150,
+        "rating": 0.9643804200725951
+    },
+    {
+        "user_id": 27,
+        "policy_id": 107,
+        "rating": 0.7825155568987594
+    },
+    {
+        "user_id": 28,
+        "policy_id": 143,
+        "rating": 0.8651672698192647
+    },
+    {
+        "user_id": 28,
+        "policy_id": 117,
+        "rating": 0.6771108466961975
+    },
+    {
+        "user_id": 28,
+        "policy_id": 27,
+        "rating": 0.7141063750166576
+    },
+    {
+        "user_id": 28,
+        "policy_id": 10,
+        "rating": 0.974573353215516
+    },
+    {
+        "user_id": 28,
+        "policy_id": 91,
+        "rating": 0.9526630891260076
+    },
+    {
+        "user_id": 29,
+        "policy_id": 114,
+        "rating": 0.9050996040103008
+    },
+    {
+        "user_id": 29,
+        "policy_id": 88,
+        "rating": 0.16266941199588347
+    },
+    {
+        "user_id": 29,
+        "policy_id": 27,
+        "rating": 0.9184429583067488
+    },
+    {
+        "user_id": 29,
+        "policy_id": 10,
+        "rating": 0.7251447907384174
+    },
+    {
+        "user_id": 29,
+        "policy_id": 26,
+        "rating": 0.4665003915740902
+    },
+    {
+        "user_id": 29,
+        "policy_id": 7,
+        "rating": 0.6231124833566681
+    },
+    {
+        "user_id": 30,
+        "policy_id": 27,
+        "rating": 0.2247875695065109
+    },
+    {
+        "user_id": 30,
+        "policy_id": 143,
+        "rating": 0.849634727250954
+    },
+    {
+        "user_id": 30,
+        "policy_id": 192,
+        "rating": 0.9027504995273655
+    },
+    {
+        "user_id": 30,
+        "policy_id": 91,
+        "rating": 0.8583532142585972
+    },
+    {
+        "user_id": 30,
+        "policy_id": 10,
+        "rating": 0.69307221294694
+    },
+    {
+        "user_id": 30,
+        "policy_id": 148,
+        "rating": 0.6306352933284295
+    },
+    {
+        "user_id": 30,
+        "policy_id": 117,
+        "rating": 0.9188475462933344
+    },
+    {
+        "user_id": 30,
+        "policy_id": 3,
+        "rating": 0.22462126441139538
+    },
+    {
+        "user_id": 31,
+        "policy_id": 16,
+        "rating": 0.8217753976936664
+    },
+    {
+        "user_id": 31,
+        "policy_id": 195,
+        "rating": 0.8581398312947004
+    },
+    {
+        "user_id": 31,
+        "policy_id": 77,
+        "rating": 0.9088295170274173
+    },
+    {
+        "user_id": 31,
+        "policy_id": 132,
+        "rating": 0.7116448663102959
+    },
+    {
+        "user_id": 31,
+        "policy_id": 164,
+        "rating": 0.682144835978895
+    },
+    {
+        "user_id": 31,
+        "policy_id": 71,
+        "rating": 0.7329353188467093
+    },
+    {
+        "user_id": 31,
+        "policy_id": 79,
+        "rating": 0.8948230436247471
+    },
+    {
+        "user_id": 31,
+        "policy_id": 103,
+        "rating": 0.8082242581127402
+    },
+    {
+        "user_id": 31,
+        "policy_id": 172,
+        "rating": 0.9006991495245219
+    },
+    {
+        "user_id": 32,
+        "policy_id": 54,
+        "rating": 0.290657180437877
+    },
+    {
+        "user_id": 32,
+        "policy_id": 9,
+        "rating": 0.7662144682812256
+    },
+    {
+        "user_id": 32,
+        "policy_id": 20,
+        "rating": 0.7107436377580643
+    },
+    {
+        "user_id": 32,
+        "policy_id": 22,
+        "rating": 0.18832371457772235
+    },
+    {
+        "user_id": 32,
+        "policy_id": 4,
+        "rating": 0.852417718264207
+    },
+    {
+        "user_id": 32,
+        "policy_id": 138,
+        "rating": 0.9163515228901112
+    },
+    {
+        "user_id": 32,
+        "policy_id": 55,
+        "rating": 0.7207329660797775
+    },
+    {
+        "user_id": 32,
+        "policy_id": 69,
+        "rating": 0.2776499396073392
+    },
+    {
+        "user_id": 32,
+        "policy_id": 114,
+        "rating": 0.3173043767146604
+    },
+    {
+        "user_id": 33,
+        "policy_id": 124,
+        "rating": 0.9764166684428954
+    },
+    {
+        "user_id": 33,
+        "policy_id": 143,
+        "rating": 0.3112753753735309
+    },
+    {
+        "user_id": 33,
+        "policy_id": 20,
+        "rating": 0.7476183475489698
+    },
+    {
+        "user_id": 33,
+        "policy_id": 107,
+        "rating": 0.7707184240990719
+    },
+    {
+        "user_id": 33,
+        "policy_id": 40,
+        "rating": 0.740496108179439
+    },
+    {
+        "user_id": 33,
+        "policy_id": 172,
+        "rating": 0.6891466803806696
+    },
+    {
+        "user_id": 34,
+        "policy_id": 25,
+        "rating": 0.7858769813491537
+    },
+    {
+        "user_id": 34,
+        "policy_id": 129,
+        "rating": 0.15207714772994863
+    },
+    {
+        "user_id": 34,
+        "policy_id": 11,
+        "rating": 0.868158545959322
+    },
+    {
+        "user_id": 34,
+        "policy_id": 96,
+        "rating": 0.8355423363797816
+    },
+    {
+        "user_id": 34,
+        "policy_id": 3,
+        "rating": 0.7558630570446148
+    },
+    {
+        "user_id": 35,
+        "policy_id": 52,
+        "rating": 0.7069030039763031
+    },
+    {
+        "user_id": 35,
+        "policy_id": 66,
+        "rating": 0.9714092498383821
+    },
+    {
+        "user_id": 35,
+        "policy_id": 39,
+        "rating": 0.7234341556404309
+    },
+    {
+        "user_id": 35,
+        "policy_id": 133,
+        "rating": 0.9152430124541571
+    },
+    {
+        "user_id": 35,
+        "policy_id": 98,
+        "rating": 0.7423686539742319
+    },
+    {
+        "user_id": 35,
+        "policy_id": 67,
+        "rating": 0.93389072364363
+    },
+    {
+        "user_id": 35,
+        "policy_id": 27,
+        "rating": 0.44893878525571296
+    },
+    {
+        "user_id": 35,
+        "policy_id": 107,
+        "rating": 0.7730959207969746
+    },
+    {
+        "user_id": 35,
+        "policy_id": 164,
+        "rating": 0.6739420403568672
+    },
+    {
+        "user_id": 35,
+        "policy_id": 63,
+        "rating": 0.9034271129596128
+    },
+    {
+        "user_id": 36,
+        "policy_id": 110,
+        "rating": 0.7174009556373244
+    },
+    {
+        "user_id": 36,
+        "policy_id": 190,
+        "rating": 0.9956374860692083
+    },
+    {
+        "user_id": 36,
+        "policy_id": 36,
+        "rating": 0.8308742948401427
+    },
+    {
+        "user_id": 36,
+        "policy_id": 154,
+        "rating": 0.7497500904756579
+    },
+    {
+        "user_id": 36,
+        "policy_id": 59,
+        "rating": 0.6067171162121636
+    },
+    {
+        "user_id": 36,
+        "policy_id": 162,
+        "rating": 0.8922871659398781
+    },
+    {
+        "user_id": 36,
+        "policy_id": 102,
+        "rating": 0.20485364867658148
+    },
+    {
+        "user_id": 37,
+        "policy_id": 27,
+        "rating": 0.6547556481010203
+    },
+    {
+        "user_id": 37,
+        "policy_id": 149,
+        "rating": 0.32448178163362706
+    },
+    {
+        "user_id": 37,
+        "policy_id": 32,
+        "rating": 0.9443825873014834
+    },
+    {
+        "user_id": 37,
+        "policy_id": 83,
+        "rating": 0.9447542969600545
+    },
+    {
+        "user_id": 37,
+        "policy_id": 124,
+        "rating": 0.3229146462126733
+    },
+    {
+        "user_id": 37,
+        "policy_id": 31,
+        "rating": 0.884217682534304
+    },
+    {
+        "user_id": 37,
+        "policy_id": 66,
+        "rating": 0.6644193313008038
+    },
+    {
+        "user_id": 37,
+        "policy_id": 141,
+        "rating": 0.6185776853897322
+    },
+    {
+        "user_id": 37,
+        "policy_id": 7,
+        "rating": 0.7441142661366602
+    },
+    {
+        "user_id": 37,
+        "policy_id": 182,
+        "rating": 0.4726503029419413
+    },
+    {
+        "user_id": 38,
+        "policy_id": 31,
+        "rating": 0.9292836408022163
+    },
+    {
+        "user_id": 38,
+        "policy_id": 75,
+        "rating": 0.6054437482121275
+    },
+    {
+        "user_id": 38,
+        "policy_id": 38,
+        "rating": 0.9213983931108596
+    },
+    {
+        "user_id": 38,
+        "policy_id": 82,
+        "rating": 0.8882175133713437
+    },
+    {
+        "user_id": 38,
+        "policy_id": 166,
+        "rating": 0.93366124143971
+    },
+    {
+        "user_id": 38,
+        "policy_id": 199,
+        "rating": 0.8781830215256734
+    },
+    {
+        "user_id": 38,
+        "policy_id": 80,
+        "rating": 0.871348206341279
+    },
+    {
+        "user_id": 38,
+        "policy_id": 171,
+        "rating": 0.6882330035589996
+    },
+    {
+        "user_id": 39,
+        "policy_id": 76,
+        "rating": 0.3037705228418288
+    },
+    {
+        "user_id": 39,
+        "policy_id": 91,
+        "rating": 0.964311912776166
+    },
+    {
+        "user_id": 39,
+        "policy_id": 31,
+        "rating": 0.6864754155125532
+    },
+    {
+        "user_id": 39,
+        "policy_id": 117,
+        "rating": 0.8336901009022774
+    },
+    {
+        "user_id": 39,
+        "policy_id": 4,
+        "rating": 0.8104822111645118
+    },
+    {
+        "user_id": 39,
+        "policy_id": 148,
+        "rating": 0.6205290004483249
+    },
+    {
+        "user_id": 39,
+        "policy_id": 172,
+        "rating": 0.7453212638451577
+    },
+    {
+        "user_id": 40,
+        "policy_id": 134,
+        "rating": 0.9146162771531651
+    },
+    {
+        "user_id": 40,
+        "policy_id": 91,
+        "rating": 0.7188764364427827
+    },
+    {
+        "user_id": 40,
+        "policy_id": 40,
+        "rating": 0.38878900059930366
+    },
+    {
+        "user_id": 40,
+        "policy_id": 4,
+        "rating": 0.12128560724368734
+    },
+    {
+        "user_id": 40,
+        "policy_id": 10,
+        "rating": 0.9385688726109456
+    },
+    {
+        "user_id": 40,
+        "policy_id": 31,
+        "rating": 0.8124530137071007
+    },
+    {
+        "user_id": 41,
+        "policy_id": 110,
+        "rating": 0.6140852576727586
+    },
+    {
+        "user_id": 41,
+        "policy_id": 11,
+        "rating": 0.8876060469285305
+    },
+    {
+        "user_id": 41,
+        "policy_id": 166,
+        "rating": 0.735187763992327
+    },
+    {
+        "user_id": 41,
+        "policy_id": 4,
+        "rating": 0.9013692962143828
+    },
+    {
+        "user_id": 41,
+        "policy_id": 40,
+        "rating": 0.46984795205387664
+    },
+    {
+        "user_id": 41,
+        "policy_id": 159,
+        "rating": 0.6846450475796722
+    },
+    {
+        "user_id": 42,
+        "policy_id": 20,
+        "rating": 0.8532352057754475
+    },
+    {
+        "user_id": 42,
+        "policy_id": 107,
+        "rating": 0.2627688920714314
+    },
+    {
+        "user_id": 42,
+        "policy_id": 172,
+        "rating": 0.9378824829418987
+    },
+    {
+        "user_id": 42,
+        "policy_id": 142,
+        "rating": 0.992817408969616
+    },
+    {
+        "user_id": 42,
+        "policy_id": 195,
+        "rating": 0.9979717053669102
+    },
+    {
+        "user_id": 42,
+        "policy_id": 91,
+        "rating": 0.9019824329967548
+    },
+    {
+        "user_id": 42,
+        "policy_id": 102,
+        "rating": 0.9879819991956205
+    },
+    {
+        "user_id": 43,
+        "policy_id": 83,
+        "rating": 0.8079982198578699
+    },
+    {
+        "user_id": 43,
+        "policy_id": 26,
+        "rating": 0.825015389193791
+    },
+    {
+        "user_id": 43,
+        "policy_id": 58,
+        "rating": 0.4720414606413481
+    },
+    {
+        "user_id": 43,
+        "policy_id": 192,
+        "rating": 0.6124010765883212
+    },
+    {
+        "user_id": 43,
+        "policy_id": 138,
+        "rating": 0.8752659178796305
+    },
+    {
+        "user_id": 43,
+        "policy_id": 124,
+        "rating": 0.7651922762798582
+    },
+    {
+        "user_id": 43,
+        "policy_id": 148,
+        "rating": 0.6642468727664662
+    },
+    {
+        "user_id": 44,
+        "policy_id": 136,
+        "rating": 0.6678017208770609
+    },
+    {
+        "user_id": 44,
+        "policy_id": 159,
+        "rating": 0.9751994540548512
+    },
+    {
+        "user_id": 44,
+        "policy_id": 111,
+        "rating": 0.7913073144972598
+    },
+    {
+        "user_id": 44,
+        "policy_id": 34,
+        "rating": 0.9144867932747108
+    },
+    {
+        "user_id": 44,
+        "policy_id": 88,
+        "rating": 0.6065962389581476
+    },
+    {
+        "user_id": 45,
+        "policy_id": 124,
+        "rating": 0.145179631457813
+    },
+    {
+        "user_id": 45,
+        "policy_id": 37,
+        "rating": 0.6950914875786254
+    },
+    {
+        "user_id": 45,
+        "policy_id": 147,
+        "rating": 0.6373432649938837
+    },
+    {
+        "user_id": 45,
+        "policy_id": 10,
+        "rating": 0.9521101612139063
+    },
+    {
+        "user_id": 45,
+        "policy_id": 95,
+        "rating": 0.981607897297378
+    },
+    {
+        "user_id": 46,
+        "policy_id": 66,
+        "rating": 0.730380157476732
+    },
+    {
+        "user_id": 46,
+        "policy_id": 154,
+        "rating": 0.6654693741970553
+    },
+    {
+        "user_id": 46,
+        "policy_id": 138,
+        "rating": 0.7695822819958154
+    },
+    {
+        "user_id": 46,
+        "policy_id": 87,
+        "rating": 0.10064447363513525
+    },
+    {
+        "user_id": 46,
+        "policy_id": 39,
+        "rating": 0.9508285216963406
+    },
+    {
+        "user_id": 46,
+        "policy_id": 164,
+        "rating": 0.8958216876892917
+    },
+    {
+        "user_id": 46,
+        "policy_id": 190,
+        "rating": 0.43927399192051386
+    },
+    {
+        "user_id": 47,
+        "policy_id": 115,
+        "rating": 0.9582589641411722
+    },
+    {
+        "user_id": 47,
+        "policy_id": 186,
+        "rating": 0.8730055788676916
+    },
+    {
+        "user_id": 47,
+        "policy_id": 131,
+        "rating": 0.7997388619694501
+    },
+    {
+        "user_id": 47,
+        "policy_id": 142,
+        "rating": 0.6496015090680777
+    },
+    {
+        "user_id": 47,
+        "policy_id": 166,
+        "rating": 0.2297358908675202
+    },
+    {
+        "user_id": 47,
+        "policy_id": 157,
+        "rating": 0.9186440412924062
+    },
+    {
+        "user_id": 47,
+        "policy_id": 67,
+        "rating": 0.6764195382745208
+    },
+    {
+        "user_id": 48,
+        "policy_id": 94,
+        "rating": 0.3554551554997879
+    },
+    {
+        "user_id": 48,
+        "policy_id": 80,
+        "rating": 0.8941426607450025
+    },
+    {
+        "user_id": 48,
+        "policy_id": 24,
+        "rating": 0.3958449990447107
+    },
+    {
+        "user_id": 48,
+        "policy_id": 172,
+        "rating": 0.39964746296622955
+    },
+    {
+        "user_id": 48,
+        "policy_id": 195,
+        "rating": 0.8280428724147789
+    },
+    {
+        "user_id": 48,
+        "policy_id": 114,
+        "rating": 0.1991191615609106
+    },
+    {
+        "user_id": 49,
+        "policy_id": 24,
+        "rating": 0.715105817158524
+    },
+    {
+        "user_id": 49,
+        "policy_id": 22,
+        "rating": 0.8687624719560714
+    },
+    {
+        "user_id": 49,
+        "policy_id": 1,
+        "rating": 0.7493368790942588
+    },
+    {
+        "user_id": 49,
+        "policy_id": 116,
+        "rating": 0.8624351955893809
+    },
+    {
+        "user_id": 49,
+        "policy_id": 141,
+        "rating": 0.8786051028180624
+    },
+    {
+        "user_id": 49,
+        "policy_id": 175,
+        "rating": 0.1981354207352478
+    },
+    {
+        "user_id": 49,
+        "policy_id": 83,
+        "rating": 0.6018975305669872
+    },
+    {
+        "user_id": 49,
+        "policy_id": 166,
+        "rating": 0.8552597666293238
+    },
+    {
+        "user_id": 50,
+        "policy_id": 91,
+        "rating": 0.919355188599389
+    },
+    {
+        "user_id": 50,
+        "policy_id": 141,
+        "rating": 0.6637418870367681
+    },
+    {
+        "user_id": 50,
+        "policy_id": 27,
+        "rating": 0.7614672990017629
+    },
+    {
+        "user_id": 50,
+        "policy_id": 138,
+        "rating": 0.6481862065682567
+    },
+    {
+        "user_id": 50,
+        "policy_id": 192,
+        "rating": 0.7493858657327894
+    },
+    {
+        "user_id": 50,
+        "policy_id": 143,
+        "rating": 0.8937224734110292
+    },
+    {
+        "user_id": 50,
+        "policy_id": 109,
+        "rating": 0.6029411763782649
+    },
+    {
+        "user_id": 50,
+        "policy_id": 4,
+        "rating": 0.6002822826636937
+    },
+    {
+        "user_id": 50,
+        "policy_id": 134,
+        "rating": 0.890000059379227
+    },
+    {
+        "user_id": 51,
+        "policy_id": 79,
+        "rating": 0.8013141257407365
+    },
+    {
+        "user_id": 51,
+        "policy_id": 64,
+        "rating": 0.7453179710763067
+    },
+    {
+        "user_id": 51,
+        "policy_id": 146,
+        "rating": 0.8978214986230257
+    },
+    {
+        "user_id": 51,
+        "policy_id": 188,
+        "rating": 0.1369552284140476
+    },
+    {
+        "user_id": 51,
+        "policy_id": 96,
+        "rating": 0.8579620810751545
+    },
+    {
+        "user_id": 51,
+        "policy_id": 75,
+        "rating": 0.9117688005752593
+    },
+    {
+        "user_id": 51,
+        "policy_id": 182,
+        "rating": 0.10248952061995059
+    },
+    {
+        "user_id": 51,
+        "policy_id": 149,
+        "rating": 0.2369227034738517
+    },
+    {
+        "user_id": 52,
+        "policy_id": 45,
+        "rating": 0.9945219727679745
+    },
+    {
+        "user_id": 52,
+        "policy_id": 84,
+        "rating": 0.2840198504029061
+    },
+    {
+        "user_id": 52,
+        "policy_id": 80,
+        "rating": 0.40142021261364824
+    },
+    {
+        "user_id": 52,
+        "policy_id": 16,
+        "rating": 0.2434358493891714
+    },
+    {
+        "user_id": 52,
+        "policy_id": 29,
+        "rating": 0.7817837117202909
+    },
+    {
+        "user_id": 52,
+        "policy_id": 39,
+        "rating": 0.939858395389396
+    },
+    {
+        "user_id": 52,
+        "policy_id": 82,
+        "rating": 0.9353377731987399
+    },
+    {
+        "user_id": 52,
+        "policy_id": 100,
+        "rating": 0.7307032599258712
+    },
+    {
+        "user_id": 52,
+        "policy_id": 69,
+        "rating": 0.23186699260520155
+    },
+    {
+        "user_id": 53,
+        "policy_id": 141,
+        "rating": 0.8431528563437592
+    },
+    {
+        "user_id": 53,
+        "policy_id": 194,
+        "rating": 0.8930837536752947
+    },
+    {
+        "user_id": 53,
+        "policy_id": 111,
+        "rating": 0.6772880584718654
+    },
+    {
+        "user_id": 53,
+        "policy_id": 27,
+        "rating": 0.9066625846325496
+    },
+    {
+        "user_id": 53,
+        "policy_id": 79,
+        "rating": 0.8118963762882409
+    },
+    {
+        "user_id": 53,
+        "policy_id": 1,
+        "rating": 0.9287362132882157
+    },
+    {
+        "user_id": 53,
+        "policy_id": 192,
+        "rating": 0.849661328612422
+    },
+    {
+        "user_id": 54,
+        "policy_id": 40,
+        "rating": 0.936635061548432
+    },
+    {
+        "user_id": 54,
+        "policy_id": 107,
+        "rating": 0.7345699189681147
+    },
+    {
+        "user_id": 54,
+        "policy_id": 142,
+        "rating": 0.6900352322139419
+    },
+    {
+        "user_id": 54,
+        "policy_id": 134,
+        "rating": 0.4550908439740534
+    },
+    {
+        "user_id": 54,
+        "policy_id": 172,
+        "rating": 0.6690367383409285
+    },
+    {
+        "user_id": 54,
+        "policy_id": 79,
+        "rating": 0.9985778449846094
+    },
+    {
+        "user_id": 54,
+        "policy_id": 160,
+        "rating": 0.7495253832719426
+    },
+    {
+        "user_id": 55,
+        "policy_id": 107,
+        "rating": 0.4273740755394896
+    },
+    {
+        "user_id": 55,
+        "policy_id": 40,
+        "rating": 0.6168458415937546
+    },
+    {
+        "user_id": 55,
+        "policy_id": 31,
+        "rating": 0.9158779932806662
+    },
+    {
+        "user_id": 55,
+        "policy_id": 172,
+        "rating": 0.807200518662673
+    },
+    {
+        "user_id": 55,
+        "policy_id": 143,
+        "rating": 0.1053399183507934
+    },
+    {
+        "user_id": 55,
+        "policy_id": 4,
+        "rating": 0.2140570742720517
+    },
+    {
+        "user_id": 55,
+        "policy_id": 34,
+        "rating": 0.21676087145758727
+    },
+    {
+        "user_id": 55,
+        "policy_id": 146,
+        "rating": 0.8363429483372493
+    },
+    {
+        "user_id": 56,
+        "policy_id": 1,
+        "rating": 0.6962339711383619
+    },
+    {
+        "user_id": 56,
+        "policy_id": 159,
+        "rating": 0.657728161648406
+    },
+    {
+        "user_id": 56,
+        "policy_id": 4,
+        "rating": 0.7959528121994441
+    },
+    {
+        "user_id": 56,
+        "policy_id": 134,
+        "rating": 0.8385958056386932
+    },
+    {
+        "user_id": 56,
+        "policy_id": 24,
+        "rating": 0.6556460542924886
+    },
+    {
+        "user_id": 56,
+        "policy_id": 10,
+        "rating": 0.15805019472868764
+    },
+    {
+        "user_id": 57,
+        "policy_id": 172,
+        "rating": 0.6060611064120346
+    },
+    {
+        "user_id": 57,
+        "policy_id": 4,
+        "rating": 0.9317180947282802
+    },
+    {
+        "user_id": 57,
+        "policy_id": 91,
+        "rating": 0.8838178082550612
+    },
+    {
+        "user_id": 57,
+        "policy_id": 34,
+        "rating": 0.13568366089944034
+    },
+    {
+        "user_id": 57,
+        "policy_id": 20,
+        "rating": 0.8019523227895614
+    },
+    {
+        "user_id": 57,
+        "policy_id": 76,
+        "rating": 0.3777597894165561
+    },
+    {
+        "user_id": 57,
+        "policy_id": 141,
+        "rating": 0.6048273000075404
+    },
+    {
+        "user_id": 58,
+        "policy_id": 3,
+        "rating": 0.9878034329884164
+    },
+    {
+        "user_id": 58,
+        "policy_id": 192,
+        "rating": 0.19618131237386197
+    },
+    {
+        "user_id": 58,
+        "policy_id": 20,
+        "rating": 0.615316591759004
+    },
+    {
+        "user_id": 58,
+        "policy_id": 134,
+        "rating": 0.6344859183247072
+    },
+    {
+        "user_id": 58,
+        "policy_id": 148,
+        "rating": 0.3325987488151626
+    },
+    {
+        "user_id": 58,
+        "policy_id": 34,
+        "rating": 0.783793759428562
+    },
+    {
+        "user_id": 59,
+        "policy_id": 143,
+        "rating": 0.9140084919350329
+    },
+    {
+        "user_id": 59,
+        "policy_id": 40,
+        "rating": 0.8965727780679102
+    },
+    {
+        "user_id": 59,
+        "policy_id": 94,
+        "rating": 0.8386911643526708
+    },
+    {
+        "user_id": 59,
+        "policy_id": 176,
+        "rating": 0.21349511245182487
+    },
+    {
+        "user_id": 59,
+        "policy_id": 117,
+        "rating": 0.6265994520447521
+    },
+    {
+        "user_id": 59,
+        "policy_id": 34,
+        "rating": 0.993471887768795
+    },
+    {
+        "user_id": 59,
+        "policy_id": 172,
+        "rating": 0.6179126719507179
+    },
+    {
+        "user_id": 59,
+        "policy_id": 20,
+        "rating": 0.6375121594705152
+    },
+    {
+        "user_id": 60,
+        "policy_id": 33,
+        "rating": 0.22638979527314454
+    },
+    {
+        "user_id": 60,
+        "policy_id": 107,
+        "rating": 0.7946216244694908
+    },
+    {
+        "user_id": 60,
+        "policy_id": 110,
+        "rating": 0.16404834327425372
+    },
+    {
+        "user_id": 60,
+        "policy_id": 24,
+        "rating": 0.3675399759023513
+    },
+    {
+        "user_id": 60,
+        "policy_id": 176,
+        "rating": 0.7932432581913169
+    },
+    {
+        "user_id": 60,
+        "policy_id": 117,
+        "rating": 0.9492484085284077
+    },
+    {
+        "user_id": 60,
+        "policy_id": 146,
+        "rating": 0.28117563713310273
+    },
+    {
+        "user_id": 61,
+        "policy_id": 67,
+        "rating": 0.6381899234308243
+    },
+    {
+        "user_id": 61,
+        "policy_id": 16,
+        "rating": 0.9417648692686184
+    },
+    {
+        "user_id": 61,
+        "policy_id": 10,
+        "rating": 0.9839601923187825
+    },
+    {
+        "user_id": 61,
+        "policy_id": 117,
+        "rating": 0.8495570210855955
+    },
+    {
+        "user_id": 61,
+        "policy_id": 27,
+        "rating": 0.9659428994019558
+    },
+    {
+        "user_id": 62,
+        "policy_id": 47,
+        "rating": 0.8934312126936026
+    },
+    {
+        "user_id": 62,
+        "policy_id": 149,
+        "rating": 0.8294253769454398
+    },
+    {
+        "user_id": 62,
+        "policy_id": 127,
+        "rating": 0.6129109357802015
+    },
+    {
+        "user_id": 62,
+        "policy_id": 190,
+        "rating": 0.36443271258483245
+    },
+    {
+        "user_id": 62,
+        "policy_id": 173,
+        "rating": 0.6592022556372052
+    },
+    {
+        "user_id": 62,
+        "policy_id": 30,
+        "rating": 0.9673796425504602
+    },
+    {
+        "user_id": 62,
+        "policy_id": 109,
+        "rating": 0.8010926904739516
+    },
+    {
+        "user_id": 62,
+        "policy_id": 71,
+        "rating": 0.16712410761743463
+    },
+    {
+        "user_id": 62,
+        "policy_id": 46,
+        "rating": 0.6691067013280965
+    },
+    {
+        "user_id": 62,
+        "policy_id": 88,
+        "rating": 0.8473276965146371
+    },
+    {
+        "user_id": 63,
+        "policy_id": 102,
+        "rating": 0.6888611060483764
+    },
+    {
+        "user_id": 63,
+        "policy_id": 110,
+        "rating": 0.8467494735914685
+    },
+    {
+        "user_id": 63,
+        "policy_id": 24,
+        "rating": 0.7393389597496245
+    },
+    {
+        "user_id": 63,
+        "policy_id": 176,
+        "rating": 0.6264397862160436
+    },
+    {
+        "user_id": 63,
+        "policy_id": 40,
+        "rating": 0.8526586241631671
+    },
+    {
+        "user_id": 63,
+        "policy_id": 169,
+        "rating": 0.983356462991463
+    },
+    {
+        "user_id": 64,
+        "policy_id": 110,
+        "rating": 0.7673556394042315
+    },
+    {
+        "user_id": 64,
+        "policy_id": 1,
+        "rating": 0.44886065092463856
+    },
+    {
+        "user_id": 64,
+        "policy_id": 102,
+        "rating": 0.2595432519177061
+    },
+    {
+        "user_id": 64,
+        "policy_id": 194,
+        "rating": 0.9610503196743703
+    },
+    {
+        "user_id": 64,
+        "policy_id": 32,
+        "rating": 0.8149986548377468
+    },
+    {
+        "user_id": 64,
+        "policy_id": 24,
+        "rating": 0.6214310415147963
+    },
+    {
+        "user_id": 64,
+        "policy_id": 58,
+        "rating": 0.7570068382471463
+    },
+    {
+        "user_id": 64,
+        "policy_id": 40,
+        "rating": 0.9000837418886674
+    },
+    {
+        "user_id": 64,
+        "policy_id": 149,
+        "rating": 0.7913487457044152
+    },
+    {
+        "user_id": 64,
+        "policy_id": 148,
+        "rating": 0.9674509710029189
+    },
+    {
+        "user_id": 65,
+        "policy_id": 3,
+        "rating": 0.7981250702822663
+    },
+    {
+        "user_id": 65,
+        "policy_id": 10,
+        "rating": 0.9874256928986086
+    },
+    {
+        "user_id": 65,
+        "policy_id": 1,
+        "rating": 0.9545774581045695
+    },
+    {
+        "user_id": 65,
+        "policy_id": 20,
+        "rating": 0.8197395451831604
+    },
+    {
+        "user_id": 65,
+        "policy_id": 40,
+        "rating": 0.7366900500686538
+    },
+    {
+        "user_id": 65,
+        "policy_id": 142,
+        "rating": 0.69161713640378
+    },
+    {
+        "user_id": 65,
+        "policy_id": 110,
+        "rating": 0.10955580372946741
+    },
+    {
+        "user_id": 65,
+        "policy_id": 124,
+        "rating": 0.6971996794891957
+    },
+    {
+        "user_id": 65,
+        "policy_id": 195,
+        "rating": 0.6167427657376486
+    },
+    {
+        "user_id": 66,
+        "policy_id": 42,
+        "rating": 0.8478335260411378
+    },
+    {
+        "user_id": 66,
+        "policy_id": 29,
+        "rating": 0.31525219831381746
+    },
+    {
+        "user_id": 66,
+        "policy_id": 110,
+        "rating": 0.6401392502179354
+    },
+    {
+        "user_id": 66,
+        "policy_id": 114,
+        "rating": 0.6032173667265803
+    },
+    {
+        "user_id": 66,
+        "policy_id": 195,
+        "rating": 0.7214890515152167
+    },
+    {
+        "user_id": 66,
+        "policy_id": 1,
+        "rating": 0.8735478130530197
+    },
+    {
+        "user_id": 66,
+        "policy_id": 40,
+        "rating": 0.8851383982749295
+    },
+    {
+        "user_id": 67,
+        "policy_id": 195,
+        "rating": 0.7731281846453529
+    },
+    {
+        "user_id": 67,
+        "policy_id": 80,
+        "rating": 0.43756610176351673
+    },
+    {
+        "user_id": 67,
+        "policy_id": 171,
+        "rating": 0.6477579186948648
+    },
+    {
+        "user_id": 67,
+        "policy_id": 111,
+        "rating": 0.9691952670079731
+    },
+    {
+        "user_id": 67,
+        "policy_id": 186,
+        "rating": 0.6607115895443836
+    },
+    {
+        "user_id": 67,
+        "policy_id": 71,
+        "rating": 0.6008835389552023
+    },
+    {
+        "user_id": 67,
+        "policy_id": 173,
+        "rating": 0.8944592794182475
+    },
+    {
+        "user_id": 67,
+        "policy_id": 40,
+        "rating": 0.6320899669887954
+    },
+    {
+        "user_id": 67,
+        "policy_id": 175,
+        "rating": 0.2046495552115812
+    },
+    {
+        "user_id": 67,
+        "policy_id": 176,
+        "rating": 0.9732391281941755
+    },
+    {
+        "user_id": 68,
+        "policy_id": 148,
+        "rating": 0.906394456072417
+    },
+    {
+        "user_id": 68,
+        "policy_id": 91,
+        "rating": 0.6274398203394801
+    },
+    {
+        "user_id": 68,
+        "policy_id": 27,
+        "rating": 0.6585336615660008
+    },
+    {
+        "user_id": 68,
+        "policy_id": 26,
+        "rating": 0.948163593066578
+    },
+    {
+        "user_id": 68,
+        "policy_id": 83,
+        "rating": 0.6566061879567434
+    },
+    {
+        "user_id": 68,
+        "policy_id": 110,
+        "rating": 0.7589883894373911
+    },
+    {
+        "user_id": 68,
+        "policy_id": 10,
+        "rating": 0.9383318748330055
+    },
+    {
+        "user_id": 69,
+        "policy_id": 148,
+        "rating": 0.9376665508091202
+    },
+    {
+        "user_id": 69,
+        "policy_id": 182,
+        "rating": 0.3635317503988923
+    },
+    {
+        "user_id": 69,
+        "policy_id": 27,
+        "rating": 0.7922489792811664
+    },
+    {
+        "user_id": 69,
+        "policy_id": 63,
+        "rating": 0.2243766025056557
+    },
+    {
+        "user_id": 69,
+        "policy_id": 3,
+        "rating": 0.8378011482136212
+    },
+    {
+        "user_id": 69,
+        "policy_id": 10,
+        "rating": 0.2814283248885892
+    },
+    {
+        "user_id": 69,
+        "policy_id": 84,
+        "rating": 0.12210489870099624
+    },
+    {
+        "user_id": 69,
+        "policy_id": 39,
+        "rating": 0.31830405330177963
+    },
+    {
+        "user_id": 69,
+        "policy_id": 67,
+        "rating": 0.7785119933710442
+    },
+    {
+        "user_id": 70,
+        "policy_id": 27,
+        "rating": 0.8583644805280326
+    },
+    {
+        "user_id": 70,
+        "policy_id": 84,
+        "rating": 0.9933481007150798
+    },
+    {
+        "user_id": 70,
+        "policy_id": 63,
+        "rating": 0.7858791056229795
+    },
+    {
+        "user_id": 70,
+        "policy_id": 148,
+        "rating": 0.19792114273802786
+    },
+    {
+        "user_id": 70,
+        "policy_id": 91,
+        "rating": 0.9446397994233092
+    },
+    {
+        "user_id": 70,
+        "policy_id": 39,
+        "rating": 0.334711876532775
+    },
+    {
+        "user_id": 70,
+        "policy_id": 143,
+        "rating": 0.21569266216681682
+    },
+    {
+        "user_id": 70,
+        "policy_id": 117,
+        "rating": 0.3810478319370144
+    },
+    {
+        "user_id": 70,
+        "policy_id": 154,
+        "rating": 0.7047750597772391
+    },
+    {
+        "user_id": 70,
+        "policy_id": 16,
+        "rating": 0.9148764570345558
+    },
+    {
+        "user_id": 71,
+        "policy_id": 124,
+        "rating": 0.6914314204978125
+    },
+    {
+        "user_id": 71,
+        "policy_id": 88,
+        "rating": 0.27558799235233045
+    },
+    {
+        "user_id": 71,
+        "policy_id": 109,
+        "rating": 0.7852808155527756
+    },
+    {
+        "user_id": 71,
+        "policy_id": 91,
+        "rating": 0.7920366151772269
+    },
+    {
+        "user_id": 71,
+        "policy_id": 7,
+        "rating": 0.658581688691702
+    },
+    {
+        "user_id": 71,
+        "policy_id": 94,
+        "rating": 0.9237362238682112
+    },
+    {
+        "user_id": 71,
+        "policy_id": 117,
+        "rating": 0.9288421166996845
+    },
+    {
+        "user_id": 72,
+        "policy_id": 72,
+        "rating": 0.6542081948832987
+    },
+    {
+        "user_id": 72,
+        "policy_id": 80,
+        "rating": 0.6619593758795598
+    },
+    {
+        "user_id": 72,
+        "policy_id": 22,
+        "rating": 0.7920773110554357
+    },
+    {
+        "user_id": 72,
+        "policy_id": 146,
+        "rating": 0.8445948867319699
+    },
+    {
+        "user_id": 72,
+        "policy_id": 140,
+        "rating": 0.6018900773675985
+    },
+    {
+        "user_id": 72,
+        "policy_id": 71,
+        "rating": 0.9755003800227052
+    },
+    {
+        "user_id": 72,
+        "policy_id": 114,
+        "rating": 0.922788805352776
+    },
+    {
+        "user_id": 73,
+        "policy_id": 88,
+        "rating": 0.7887114013246936
+    },
+    {
+        "user_id": 73,
+        "policy_id": 134,
+        "rating": 0.805426330518068
+    },
+    {
+        "user_id": 73,
+        "policy_id": 1,
+        "rating": 0.6196449362566345
+    },
+    {
+        "user_id": 73,
+        "policy_id": 24,
+        "rating": 0.627957079385875
+    },
+    {
+        "user_id": 73,
+        "policy_id": 146,
+        "rating": 0.214088587711611
+    },
+    {
+        "user_id": 73,
+        "policy_id": 110,
+        "rating": 0.6339512390766445
+    },
+    {
+        "user_id": 74,
+        "policy_id": 27,
+        "rating": 0.6439961961085163
+    },
+    {
+        "user_id": 74,
+        "policy_id": 117,
+        "rating": 0.8852345801005994
+    },
+    {
+        "user_id": 74,
+        "policy_id": 10,
+        "rating": 0.6240513330456878
+    },
+    {
+        "user_id": 74,
+        "policy_id": 143,
+        "rating": 0.6085076427755921
+    },
+    {
+        "user_id": 74,
+        "policy_id": 91,
+        "rating": 0.6143127209429001
+    },
+    {
+        "user_id": 74,
+        "policy_id": 148,
+        "rating": 0.3377092589349887
+    },
+    {
+        "user_id": 75,
+        "policy_id": 148,
+        "rating": 0.7882219523363435
+    },
+    {
+        "user_id": 75,
+        "policy_id": 192,
+        "rating": 0.6959388664006698
+    },
+    {
+        "user_id": 75,
+        "policy_id": 133,
+        "rating": 0.7982554844074645
+    },
+    {
+        "user_id": 75,
+        "policy_id": 66,
+        "rating": 0.640587886652678
+    },
+    {
+        "user_id": 75,
+        "policy_id": 67,
+        "rating": 0.8615599551972595
+    },
+    {
+        "user_id": 75,
+        "policy_id": 27,
+        "rating": 0.6211439748142553
+    },
+    {
+        "user_id": 75,
+        "policy_id": 63,
+        "rating": 0.4886926267160523
+    },
+    {
+        "user_id": 76,
+        "policy_id": 10,
+        "rating": 0.6848242394734254
+    },
+    {
+        "user_id": 76,
+        "policy_id": 117,
+        "rating": 0.7095751483460975
+    },
+    {
+        "user_id": 76,
+        "policy_id": 27,
+        "rating": 0.4604934842088897
+    },
+    {
+        "user_id": 76,
+        "policy_id": 91,
+        "rating": 0.43053369732486124
+    },
+    {
+        "user_id": 76,
+        "policy_id": 172,
+        "rating": 0.15877445568786835
+    },
+    {
+        "user_id": 76,
+        "policy_id": 192,
+        "rating": 0.6340782060384574
+    },
+    {
+        "user_id": 76,
+        "policy_id": 3,
+        "rating": 0.38490586668753035
+    },
+    {
+        "user_id": 76,
+        "policy_id": 143,
+        "rating": 0.32735124278497774
+    },
+    {
+        "user_id": 77,
+        "policy_id": 113,
+        "rating": 0.7497856533907201
+    },
+    {
+        "user_id": 77,
+        "policy_id": 110,
+        "rating": 0.6246919651276891
+    },
+    {
+        "user_id": 77,
+        "policy_id": 20,
+        "rating": 0.6380109530759498
+    },
+    {
+        "user_id": 77,
+        "policy_id": 24,
+        "rating": 0.7788521625591964
+    },
+    {
+        "user_id": 77,
+        "policy_id": 88,
+        "rating": 0.4662040841216254
+    },
+    {
+        "user_id": 77,
+        "policy_id": 169,
+        "rating": 0.6041728921299306
+    },
+    {
+        "user_id": 77,
+        "policy_id": 109,
+        "rating": 0.7462938280064726
+    },
+    {
+        "user_id": 78,
+        "policy_id": 40,
+        "rating": 0.673944721310449
+    },
+    {
+        "user_id": 78,
+        "policy_id": 104,
+        "rating": 0.9683535289085964
+    },
+    {
+        "user_id": 78,
+        "policy_id": 177,
+        "rating": 0.7084554659836624
+    },
+    {
+        "user_id": 78,
+        "policy_id": 20,
+        "rating": 0.6628745478853474
+    },
+    {
+        "user_id": 78,
+        "policy_id": 176,
+        "rating": 0.9411903149000161
+    },
+    {
+        "user_id": 78,
+        "policy_id": 9,
+        "rating": 0.7360929190464198
+    },
+    {
+        "user_id": 78,
+        "policy_id": 54,
+        "rating": 0.81851276572197
+    },
+    {
+        "user_id": 78,
+        "policy_id": 96,
+        "rating": 0.6710790274606626
+    },
+    {
+        "user_id": 78,
+        "policy_id": 137,
+        "rating": 0.8690482520877523
+    },
+    {
+        "user_id": 78,
+        "policy_id": 143,
+        "rating": 0.7946908620619266
+    },
+    {
+        "user_id": 79,
+        "policy_id": 102,
+        "rating": 0.8417216269519828
+    },
+    {
+        "user_id": 79,
+        "policy_id": 40,
+        "rating": 0.994866457297789
+    },
+    {
+        "user_id": 79,
+        "policy_id": 27,
+        "rating": 0.2759262431763131
+    },
+    {
+        "user_id": 79,
+        "policy_id": 83,
+        "rating": 0.7312929174675771
+    },
+    {
+        "user_id": 79,
+        "policy_id": 34,
+        "rating": 0.8282556514323964
+    },
+    {
+        "user_id": 79,
+        "policy_id": 115,
+        "rating": 0.7640622308789861
+    },
+    {
+        "user_id": 79,
+        "policy_id": 192,
+        "rating": 0.8169405417767033
+    },
+    {
+        "user_id": 79,
+        "policy_id": 160,
+        "rating": 0.13888780842746085
+    },
+    {
+        "user_id": 79,
+        "policy_id": 143,
+        "rating": 0.8957922981745592
+    },
+    {
+        "user_id": 80,
+        "policy_id": 40,
+        "rating": 0.27848599961757636
+    },
+    {
+        "user_id": 80,
+        "policy_id": 27,
+        "rating": 0.8045726179989882
+    },
+    {
+        "user_id": 80,
+        "policy_id": 134,
+        "rating": 0.9582444641430987
+    },
+    {
+        "user_id": 80,
+        "policy_id": 140,
+        "rating": 0.9179948566203194
+    },
+    {
+        "user_id": 80,
+        "policy_id": 26,
+        "rating": 0.8232008747402269
+    },
+    {
+        "user_id": 80,
+        "policy_id": 55,
+        "rating": 0.871580336239085
+    },
+    {
+        "user_id": 80,
+        "policy_id": 91,
+        "rating": 0.7406529788210222
+    },
+    {
+        "user_id": 81,
+        "policy_id": 57,
+        "rating": 0.8956412365573962
+    },
+    {
+        "user_id": 81,
+        "policy_id": 34,
+        "rating": 0.9930712222898743
+    },
+    {
+        "user_id": 81,
+        "policy_id": 134,
+        "rating": 0.8463770019819277
+    },
+    {
+        "user_id": 81,
+        "policy_id": 157,
+        "rating": 0.8386661462835183
+    },
+    {
+        "user_id": 81,
+        "policy_id": 165,
+        "rating": 0.37339180135373196
+    },
+    {
+        "user_id": 81,
+        "policy_id": 94,
+        "rating": 0.7218413446172686
+    },
+    {
+        "user_id": 81,
+        "policy_id": 117,
+        "rating": 0.6974236891770785
+    },
+    {
+        "user_id": 81,
+        "policy_id": 68,
+        "rating": 0.6777409722187936
+    },
+    {
+        "user_id": 82,
+        "policy_id": 96,
+        "rating": 0.8441418000807511
+    },
+    {
+        "user_id": 82,
+        "policy_id": 177,
+        "rating": 0.8553418475774268
+    },
+    {
+        "user_id": 82,
+        "policy_id": 42,
+        "rating": 0.8175987457224375
+    },
+    {
+        "user_id": 82,
+        "policy_id": 37,
+        "rating": 0.18443605416760073
+    },
+    {
+        "user_id": 82,
+        "policy_id": 4,
+        "rating": 0.13377544852596654
+    },
+    {
+        "user_id": 82,
+        "policy_id": 194,
+        "rating": 0.7631746478381063
+    },
+    {
+        "user_id": 82,
+        "policy_id": 173,
+        "rating": 0.7366607545055542
+    },
+    {
+        "user_id": 82,
+        "policy_id": 195,
+        "rating": 0.660849068836834
+    },
+    {
+        "user_id": 82,
+        "policy_id": 143,
+        "rating": 0.886790110938438
+    },
+    {
+        "user_id": 83,
+        "policy_id": 92,
+        "rating": 0.32957287009947356
+    },
+    {
+        "user_id": 83,
+        "policy_id": 67,
+        "rating": 0.881083599297009
+    },
+    {
+        "user_id": 83,
+        "policy_id": 4,
+        "rating": 0.6200199843810305
+    },
+    {
+        "user_id": 83,
+        "policy_id": 66,
+        "rating": 0.9330171169038539
+    },
+    {
+        "user_id": 83,
+        "policy_id": 121,
+        "rating": 0.22104900686886153
+    },
+    {
+        "user_id": 83,
+        "policy_id": 135,
+        "rating": 0.8871213463774003
+    },
+    {
+        "user_id": 83,
+        "policy_id": 57,
+        "rating": 0.7646157136427456
+    },
+    {
+        "user_id": 83,
+        "policy_id": 44,
+        "rating": 0.9528412188361568
+    },
+    {
+        "user_id": 83,
+        "policy_id": 111,
+        "rating": 0.17227007070465872
+    },
+    {
+        "user_id": 83,
+        "policy_id": 2,
+        "rating": 0.18866633588637557
+    },
+    {
+        "user_id": 84,
+        "policy_id": 38,
+        "rating": 0.6513287196264423
+    },
+    {
+        "user_id": 84,
+        "policy_id": 197,
+        "rating": 0.10050686133921882
+    },
+    {
+        "user_id": 84,
+        "policy_id": 34,
+        "rating": 0.403396404779799
+    },
+    {
+        "user_id": 84,
+        "policy_id": 107,
+        "rating": 0.8240753961558801
+    },
+    {
+        "user_id": 84,
+        "policy_id": 75,
+        "rating": 0.6379604032362921
+    },
+    {
+        "user_id": 85,
+        "policy_id": 7,
+        "rating": 0.7547757935173145
+    },
+    {
+        "user_id": 85,
+        "policy_id": 79,
+        "rating": 0.8135367971957082
+    },
+    {
+        "user_id": 85,
+        "policy_id": 29,
+        "rating": 0.2994097637798271
+    },
+    {
+        "user_id": 85,
+        "policy_id": 4,
+        "rating": 0.6876197653524108
+    },
+    {
+        "user_id": 85,
+        "policy_id": 27,
+        "rating": 0.16349689596845673
+    },
+    {
+        "user_id": 85,
+        "policy_id": 113,
+        "rating": 0.8738586659120635
+    },
+    {
+        "user_id": 85,
+        "policy_id": 24,
+        "rating": 0.3047283069190277
+    },
+    {
+        "user_id": 85,
+        "policy_id": 76,
+        "rating": 0.8047131704451576
+    },
+    {
+        "user_id": 85,
+        "policy_id": 195,
+        "rating": 0.6997728582311962
+    },
+    {
+        "user_id": 86,
+        "policy_id": 98,
+        "rating": 0.8323199600351019
+    },
+    {
+        "user_id": 86,
+        "policy_id": 150,
+        "rating": 0.9234067304817406
+    },
+    {
+        "user_id": 86,
+        "policy_id": 60,
+        "rating": 0.6721937222675739
+    },
+    {
+        "user_id": 86,
+        "policy_id": 154,
+        "rating": 0.2771382766115932
+    },
+    {
+        "user_id": 86,
+        "policy_id": 67,
+        "rating": 0.2833801243425351
+    },
+    {
+        "user_id": 86,
+        "policy_id": 117,
+        "rating": 0.1084771994216295
+    },
+    {
+        "user_id": 87,
+        "policy_id": 46,
+        "rating": 0.6427509574804681
+    },
+    {
+        "user_id": 87,
+        "policy_id": 169,
+        "rating": 0.9086261693361651
+    },
+    {
+        "user_id": 87,
+        "policy_id": 99,
+        "rating": 0.9429691164727908
+    },
+    {
+        "user_id": 87,
+        "policy_id": 179,
+        "rating": 0.9453019248474307
+    },
+    {
+        "user_id": 87,
+        "policy_id": 140,
+        "rating": 0.6000846189044955
+    },
+    {
+        "user_id": 87,
+        "policy_id": 3,
+        "rating": 0.9262519009840331
+    },
+    {
+        "user_id": 87,
+        "policy_id": 110,
+        "rating": 0.8861783410461521
+    },
+    {
+        "user_id": 87,
+        "policy_id": 102,
+        "rating": 0.7110812670373151
+    },
+    {
+        "user_id": 87,
+        "policy_id": 68,
+        "rating": 0.7420675861418431
+    },
+    {
+        "user_id": 88,
+        "policy_id": 32,
+        "rating": 0.7594607719707279
+    },
+    {
+        "user_id": 88,
+        "policy_id": 117,
+        "rating": 0.8983393842358807
+    },
+    {
+        "user_id": 88,
+        "policy_id": 92,
+        "rating": 0.8154682785571263
+    },
+    {
+        "user_id": 88,
+        "policy_id": 52,
+        "rating": 0.44966831073570224
+    },
+    {
+        "user_id": 88,
+        "policy_id": 143,
+        "rating": 0.3304908570595979
+    },
+    {
+        "user_id": 88,
+        "policy_id": 141,
+        "rating": 0.16800589989106707
+    },
+    {
+        "user_id": 88,
+        "policy_id": 39,
+        "rating": 0.9074343244738413
+    },
+    {
+        "user_id": 88,
+        "policy_id": 84,
+        "rating": 0.38128703959708476
+    },
+    {
+        "user_id": 88,
+        "policy_id": 109,
+        "rating": 0.9963795150903773
+    },
+    {
+        "user_id": 88,
+        "policy_id": 155,
+        "rating": 0.9279275089576423
+    },
+    {
+        "user_id": 89,
+        "policy_id": 141,
+        "rating": 0.3841818483506325
+    },
+    {
+        "user_id": 89,
+        "policy_id": 124,
+        "rating": 0.9212188879908135
+    },
+    {
+        "user_id": 89,
+        "policy_id": 58,
+        "rating": 0.7164864795488529
+    },
+    {
+        "user_id": 89,
+        "policy_id": 166,
+        "rating": 0.7250116905821474
+    },
+    {
+        "user_id": 89,
+        "policy_id": 7,
+        "rating": 0.9635244553741693
+    },
+    {
+        "user_id": 89,
+        "policy_id": 26,
+        "rating": 0.9716107653864007
+    },
+    {
+        "user_id": 89,
+        "policy_id": 117,
+        "rating": 0.6972646389592215
+    },
+    {
+        "user_id": 89,
+        "policy_id": 96,
+        "rating": 0.6346093554270541
+    },
+    {
+        "user_id": 89,
+        "policy_id": 146,
+        "rating": 0.7063358118658492
+    },
+    {
+        "user_id": 90,
+        "policy_id": 39,
+        "rating": 0.7328458487181874
+    },
+    {
+        "user_id": 90,
+        "policy_id": 154,
+        "rating": 0.83269113976086
+    },
+    {
+        "user_id": 90,
+        "policy_id": 164,
+        "rating": 0.35745818306531796
+    },
+    {
+        "user_id": 90,
+        "policy_id": 23,
+        "rating": 0.18783602719740716
+    },
+    {
+        "user_id": 90,
+        "policy_id": 10,
+        "rating": 0.7166607521423852
+    },
+    {
+        "user_id": 91,
+        "policy_id": 26,
+        "rating": 0.15052709902125702
+    },
+    {
+        "user_id": 91,
+        "policy_id": 94,
+        "rating": 0.9555783136750263
+    },
+    {
+        "user_id": 91,
+        "policy_id": 80,
+        "rating": 0.741922701780341
+    },
+    {
+        "user_id": 91,
+        "policy_id": 24,
+        "rating": 0.8003686565915593
+    },
+    {
+        "user_id": 91,
+        "policy_id": 42,
+        "rating": 0.9851175857542352
+    },
+    {
+        "user_id": 91,
+        "policy_id": 169,
+        "rating": 0.2592369684758738
+    },
+    {
+        "user_id": 91,
+        "policy_id": 3,
+        "rating": 0.43558782723927447
+    },
+    {
+        "user_id": 91,
+        "policy_id": 34,
+        "rating": 0.3970490256066791
+    },
+    {
+        "user_id": 91,
+        "policy_id": 114,
+        "rating": 0.28523781471345805
+    },
+    {
+        "user_id": 91,
+        "policy_id": 134,
+        "rating": 0.7547771812262147
+    },
+    {
+        "user_id": 92,
+        "policy_id": 140,
+        "rating": 0.665955333066077
+    },
+    {
+        "user_id": 92,
+        "policy_id": 26,
+        "rating": 0.8712252863627552
+    },
+    {
+        "user_id": 92,
+        "policy_id": 117,
+        "rating": 0.826869466070547
+    },
+    {
+        "user_id": 92,
+        "policy_id": 51,
+        "rating": 0.8229771823332169
+    },
+    {
+        "user_id": 92,
+        "policy_id": 160,
+        "rating": 0.6275075557707356
+    },
+    {
+        "user_id": 92,
+        "policy_id": 88,
+        "rating": 0.4312865689430746
+    },
+    {
+        "user_id": 92,
+        "policy_id": 58,
+        "rating": 0.7019924987708684
+    },
+    {
+        "user_id": 92,
+        "policy_id": 37,
+        "rating": 0.7423032928529748
+    },
+    {
+        "user_id": 93,
+        "policy_id": 115,
+        "rating": 0.9028274276729803
+    },
+    {
+        "user_id": 93,
+        "policy_id": 57,
+        "rating": 0.6294280868378992
+    },
+    {
+        "user_id": 93,
+        "policy_id": 3,
+        "rating": 0.7365982569546028
+    },
+    {
+        "user_id": 93,
+        "policy_id": 52,
+        "rating": 0.9455915485917349
+    },
+    {
+        "user_id": 93,
+        "policy_id": 142,
+        "rating": 0.8571922874055391
+    },
+    {
+        "user_id": 94,
+        "policy_id": 1,
+        "rating": 0.7628824756531046
+    },
+    {
+        "user_id": 94,
+        "policy_id": 115,
+        "rating": 0.8883159959056954
+    },
+    {
+        "user_id": 94,
+        "policy_id": 24,
+        "rating": 0.9519114695974307
+    },
+    {
+        "user_id": 94,
+        "policy_id": 134,
+        "rating": 0.4491819716037022
+    },
+    {
+        "user_id": 94,
+        "policy_id": 192,
+        "rating": 0.8126163022217306
+    },
+    {
+        "user_id": 95,
+        "policy_id": 27,
+        "rating": 0.8650131022867602
+    },
+    {
+        "user_id": 95,
+        "policy_id": 10,
+        "rating": 0.9820246476835255
+    },
+    {
+        "user_id": 95,
+        "policy_id": 143,
+        "rating": 0.12731246701562707
+    },
+    {
+        "user_id": 95,
+        "policy_id": 117,
+        "rating": 0.8155037925507168
+    },
+    {
+        "user_id": 95,
+        "policy_id": 91,
+        "rating": 0.6514719200404714
+    },
+    {
+        "user_id": 96,
+        "policy_id": 183,
+        "rating": 0.9504131567443894
+    },
+    {
+        "user_id": 96,
+        "policy_id": 109,
+        "rating": 0.8012287979213604
+    },
+    {
+        "user_id": 96,
+        "policy_id": 158,
+        "rating": 0.9150704879927639
+    },
+    {
+        "user_id": 96,
+        "policy_id": 63,
+        "rating": 0.6859197328652848
+    },
+    {
+        "user_id": 96,
+        "policy_id": 166,
+        "rating": 0.6222133315965969
+    },
+    {
+        "user_id": 97,
+        "policy_id": 146,
+        "rating": 0.9494243361493813
+    },
+    {
+        "user_id": 97,
+        "policy_id": 27,
+        "rating": 0.4956353675450862
+    },
+    {
+        "user_id": 97,
+        "policy_id": 4,
+        "rating": 0.6782086223033663
+    },
+    {
+        "user_id": 97,
+        "policy_id": 117,
+        "rating": 0.6807093039965428
+    },
+    {
+        "user_id": 97,
+        "policy_id": 3,
+        "rating": 0.7510336643671038
+    },
+    {
+        "user_id": 98,
+        "policy_id": 198,
+        "rating": 0.9960220046763973
+    },
+    {
+        "user_id": 98,
+        "policy_id": 143,
+        "rating": 0.7163338260803611
+    },
+    {
+        "user_id": 98,
+        "policy_id": 78,
+        "rating": 0.7135928412817427
+    },
+    {
+        "user_id": 98,
+        "policy_id": 37,
+        "rating": 0.6494391194445995
+    },
+    {
+        "user_id": 98,
+        "policy_id": 24,
+        "rating": 0.1667661121998643
+    },
+    {
+        "user_id": 98,
+        "policy_id": 177,
+        "rating": 0.12816923614669906
+    },
+    {
+        "user_id": 98,
+        "policy_id": 88,
+        "rating": 0.9946450035539434
+    },
+    {
+        "user_id": 98,
+        "policy_id": 141,
+        "rating": 0.10788506799137441
+    },
+    {
+        "user_id": 98,
+        "policy_id": 22,
+        "rating": 0.6902118256374972
+    },
+    {
+        "user_id": 98,
+        "policy_id": 102,
+        "rating": 0.10127705905045277
+    },
+    {
+        "user_id": 99,
+        "policy_id": 106,
+        "rating": 0.2384707606698039
+    },
+    {
+        "user_id": 99,
+        "policy_id": 80,
+        "rating": 0.7623971125240017
+    },
+    {
+        "user_id": 99,
+        "policy_id": 112,
+        "rating": 0.9319931433870731
+    },
+    {
+        "user_id": 99,
+        "policy_id": 193,
+        "rating": 0.9002251191420817
+    },
+    {
+        "user_id": 99,
+        "policy_id": 103,
+        "rating": 0.20430684996617443
+    },
+    {
+        "user_id": 99,
+        "policy_id": 77,
+        "rating": 0.9552923232969435
+    },
+    {
+        "user_id": 99,
+        "policy_id": 81,
+        "rating": 0.4710597391925969
+    },
+    {
+        "user_id": 99,
+        "policy_id": 46,
+        "rating": 0.7631181333709405
+    },
+    {
+        "user_id": 99,
+        "policy_id": 43,
+        "rating": 0.8253413725390364
+    }
+]
